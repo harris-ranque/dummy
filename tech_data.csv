@@ -1,0 +1,771 @@
+﻿id,term,normalized,canonical,aliases,categories,subcategories,priority,active,source,kind
+tech_391b6629d9b645d3,.NET,net,.NET,Dotnet | Dot Net,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_12ab4874e2b5d441,.NET Core,net core,.NET Core,Dotnet Core,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0de82190f2d6673c,.NET MAUI,net maui,.NET MAUI,MAUI,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ae9775cc31ae3b6a,Acceptance Testing,acceptance testing,Acceptance Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_aba958d679002b2e,Accessibility,accessibility,Accessibility,A11y,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_434b0a6daa530638,ACID,acid,ACID,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d0aeff3f2e3e4acf,Advanced Custom Fields,advanced custom fields,Advanced Custom Fields,ACF,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9b214a0fbc91794f,AES,aes,AES,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5a5ef8714fff854a,Agentic AI,agentic ai,Agentic AI,AI Agents,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e7c84e21251fe45d,Airbyte,airbyte,Airbyte,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4482611cc290c2ce,AJAX,ajax,AJAX,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3c2de5591e291cfd,AlmaLinux,almalinux,AlmaLinux,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6d54ee4766f33861,Amazon Aurora,amazon aurora,Amazon Aurora,Aurora,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f1dab8c9539a81fe,Amazon RDS,amazon rds,Amazon RDS,RDS,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_baf2a23fb325ef86,Amazon Redshift,amazon redshift,Amazon Redshift,Redshift,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_201fc5c87354aae4,Amazon S3,amazon s3,Amazon S3,S3,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_42b52d4d35d1824d,Amazon Web Services,amazon web services,Amazon Web Services,AWS,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_56c978a09c1c5435,AMQP,amqp,AMQP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e4bbe5b7a4c1eb55,Android,android,Android,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7961ebf934556688,Android SDK,android sdk,Android SDK,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_54e0c177acca401a,Angular,angular,Angular,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c7872ea9f5fc81bc,AngularJS,angularjs,AngularJS,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3b24ecf0c117e396,Anomaly Detection,anomaly detection,Anomaly Detection,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bef45157a43c9e5f,Ansible,ansible,Ansible,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c86157a61a284407,Ant Design,ant design,Ant Design,AntD,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4d70babb4690b4a5,Anthropic API,anthropic api,Anthropic API,Anthropic,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d6e3849969833a5d,Apache Airflow,apache airflow,Apache Airflow,Airflow,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e5f842d99158b4ce,Apache Arrow,apache arrow,Apache Arrow,Arrow,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_32f14fa443ca22e1,Apache Beam,apache beam,Apache Beam,Beam,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ba42358d82374900,Apache HTTP Server,apache http server,Apache HTTP Server,Apache,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bc4b66a70cf89f03,Apache Hudi,apache hudi,Apache Hudi,Hudi,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2342b7fbf9aca028,Apache Iceberg,apache iceberg,Apache Iceberg,Iceberg,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5dd9422f45dcd2f9,Apache Kafka,apache kafka,Apache Kafka,Kafka,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f44a3215b34b36b7,Apache Pulsar,apache pulsar,Apache Pulsar,Pulsar,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2885544dae7715a0,Apache Solr,apache solr,Apache Solr,Solr,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fc11db6a469f688a,Apache Spark,apache spark,Apache Spark,Spark,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d6ec8b69568b8596,Apex,apex,Apex,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_98989e06bd28025e,API Gateway,api gateway,API Gateway,,"Backend & APIs | Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a4505dd4989784d3,API Management,api management,API Management,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_73a842a195c6a009,API Testing,api testing,API Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dd849fb97f996ac3,API Versioning,api versioning,API Versioning,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b3ba5be6d70b3403,Apple Push Notification Service,apple push notification service,Apple Push Notification Service,APNs,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fc385582edf59e27,Application Security,application security,Application Security,AppSec,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1f9aa6577198dd5f,ArangoDB,arangodb,ArangoDB,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4891b96084d8ecd7,ArcGIS Maps SDK for JavaScript,arcgis maps sdk for javascript,ArcGIS Maps SDK for JavaScript,ArcGIS JavaScript,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_16b131bd104f1bbd,Argo CD,argo cd,Argo CD,ArgoCD,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c7562ac4e68e615b,Argon2,argon2,Argon2,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_21839c83f19b411a,Artificial Intelligence,artificial intelligence,Artificial Intelligence,AI,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_56382a589d82a5b1,ASP.NET Core,asp.net core,ASP.NET Core,ASP.NET,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7bf38d14ad50c4d2,Assembly Language,assembly language,Assembly Language,Assembly,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_90c9d7bdfb9d0c5e,Astro,astro,Astro,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_eb87910589f80ad0,Attribute-Based Access Control,attribute-based access control,Attribute-Based Access Control,ABAC,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cd590e4db5586153,Audit Logging,audit logging,Audit Logging,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_98dff5b36e53129a,Avro,avro,Avro,Apache Avro,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d299c24ea3df378f,AWS ALB,aws alb,AWS ALB,Application Load Balancer,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1d89b2424f4a1641,AWS API Gateway,aws api gateway,AWS API Gateway,Amazon API Gateway,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_08dfd11d6395c604,AWS Athena,aws athena,AWS Athena,Amazon Athena,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f93df736babdf63b,AWS Aurora,aws aurora,AWS Aurora,Amazon Aurora,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8e96c39c7770e3e4,AWS Auto Scaling,aws auto scaling,AWS Auto Scaling,Auto Scaling,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4d3cd417ef61eb6a,AWS Bedrock,aws bedrock,AWS Bedrock,Amazon Bedrock,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d770e17c20bc91e9,AWS CDK,aws cdk,AWS CDK,Cloud Development Kit,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_35949bf28aff03fb,AWS CloudFormation,aws cloudformation,AWS CloudFormation,CloudFormation,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a8413d5b695148f5,AWS CloudFront,aws cloudfront,AWS CloudFront,CloudFront,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7d9fc1c3ac228f67,AWS CloudTrail,aws cloudtrail,AWS CloudTrail,CloudTrail,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_23f9ff7d32041465,AWS CloudWatch,aws cloudwatch,AWS CloudWatch,CloudWatch,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fdfbb56d0ab4d9a3,AWS CodeBuild,aws codebuild,AWS CodeBuild,CodeBuild,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7499f92611e94464,AWS CodeDeploy,aws codedeploy,AWS CodeDeploy,CodeDeploy,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5823b6a13712bd06,AWS CodePipeline,aws codepipeline,AWS CodePipeline,CodePipeline,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_997f0d28f4d444f6,AWS Cognito,aws cognito,AWS Cognito,Amazon Cognito,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b1bde7c8ab58ba90,AWS DynamoDB,aws dynamodb,AWS DynamoDB,DynamoDB,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4d6734cff1bdcd64,AWS EC2,aws ec2,AWS EC2,Amazon EC2,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d93c92ccd470eb6a,AWS ECS,aws ecs,AWS ECS,Amazon ECS,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_94b2484e2ca543f1,AWS EKS,aws eks,AWS EKS,Amazon EKS,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4ad339871b8ea832,AWS Elastic Beanstalk,aws elastic beanstalk,AWS Elastic Beanstalk,Elastic Beanstalk,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e1d317b95e073963,AWS ElastiCache,aws elasticache,AWS ElastiCache,ElastiCache,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6d394e00d7f898ad,AWS EventBridge,aws eventbridge,AWS EventBridge,EventBridge,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_61b652c85e499467,AWS Fargate,aws fargate,AWS Fargate,Fargate,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5a16612d3b6b09f5,AWS Glue,aws glue,AWS Glue,Amazon Glue,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3aecee8ceb5dbeb7,AWS IAM,aws iam,AWS IAM,Amazon IAM,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9c8beb8a1e406b20,AWS KMS,aws kms,AWS KMS,Amazon KMS,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2395733131354999,AWS Lambda,aws lambda,AWS Lambda,Lambda,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ac42e896b6d79c38,AWS NLB,aws nlb,AWS NLB,Network Load Balancer,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_20bb8ebe994ccd7d,AWS OpenSearch,aws opensearch,AWS OpenSearch,Amazon OpenSearch,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_26b5b0745c339738,AWS RDS,aws rds,AWS RDS,Amazon RDS,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_49002aa9ab054001,AWS Redshift,aws redshift,AWS Redshift,Amazon Redshift,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_57132c4d9e5d516a,AWS Route 53,aws route 53,AWS Route 53,Route 53,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c5166aa08279c4bd,AWS S3,aws s3,AWS S3,Amazon S3,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_87bce5f2921185bc,AWS SageMaker,aws sagemaker,AWS SageMaker,Amazon SageMaker,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8b15aa3171169fbf,AWS Secrets Manager,aws secrets manager,AWS Secrets Manager,Secrets Manager,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_17a6f367353cbf6d,AWS SNS,aws sns,AWS SNS,Amazon SNS,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_25621176c6f2beee,AWS SQS,aws sqs,AWS SQS,Amazon SQS,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_97800150dcdc9775,AWS Step Functions,aws step functions,AWS Step Functions,Step Functions,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cfa444040eb032b7,AWS VPC,aws vpc,AWS VPC,Amazon VPC,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_16eaa7e65aaefa35,AWS WAF,aws waf,AWS WAF,Amazon WAF,Cloud - AWS,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dcbc8c9a5e62d48c,Azure Active Directory,azure active directory,Azure Active Directory,Microsoft Entra ID | Entra ID,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_39dc48f08f18fec1,Azure API Management,azure api management,Azure API Management,APIM,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bd32d4ec2f02bd10,Azure App Service,azure app service,Azure App Service,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_da103d8f56668f59,Azure Application Insights,azure application insights,Azure Application Insights,Application Insights,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5677a5d459c4cf50,Azure Blob Storage,azure blob storage,Azure Blob Storage,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2b43f71fb81dfc97,Azure Container Apps,azure container apps,Azure Container Apps,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0e147d58d1856629,Azure Cosmos DB,azure cosmos db,Azure Cosmos DB,Cosmos DB,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ab54d1d43dc99243,Azure Data Factory,azure data factory,Azure Data Factory,ADF,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_84c314b37d817557,Azure DevOps,azure devops,Azure DevOps,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6d70f4e135337a44,Azure Event Grid,azure event grid,Azure Event Grid,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a13d028dab490e73,Azure Functions,azure functions,Azure Functions,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5113e5e5e63e6b01,Azure Key Vault,azure key vault,Azure Key Vault,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b007ec886bbd75f7,Azure Kubernetes Service,azure kubernetes service,Azure Kubernetes Service,AKS,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2495eb82a70494c2,Azure Machine Learning,azure machine learning,Azure Machine Learning,Azure ML,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0fd7e7f17502e345,Azure Monitor,azure monitor,Azure Monitor,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1372659fc107631c,Azure Pipelines,azure pipelines,Azure Pipelines,,"Cloud - Azure & GCP | DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ca0be348103513ba,Azure Repos,azure repos,Azure Repos,,Cloud - Azure & GCP | Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ac0ca2caed271032,Azure Service Bus,azure service bus,Azure Service Bus,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1ba29a3d5bb6ad5d,Azure SQL Database,azure sql database,Azure SQL Database,Azure SQL,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_826f4c2f81cc99ea,Azure Synapse Analytics,azure synapse analytics,Azure Synapse Analytics,Synapse,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_96eb7c86b9777210,Azure Virtual Machines,azure virtual machines,Azure Virtual Machines,Azure VM,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cad160f3d4cd7c33,Babel,babel,Babel,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b840388360dce95b,Bamboo CI,bamboo ci,Bamboo CI,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1405df66cbe219b0,BASE,base,BASE,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c8a16b493c487d9f,Bash,bash,Bash,Shell Script,"DevOps, SRE & Infrastructure | Programming Languages",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5168412490264521,bcrypt,bcrypt,bcrypt,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e28a6eaf1b5dfd85,Behavior-Driven Development,behavior-driven development,Behavior-Driven Development,BDD,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_582872ecefab3028,BigQuery,bigquery,BigQuery,Google BigQuery,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bf687672b62c2181,Bitbucket,bitbucket,Bitbucket,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b68162ddcc4dc2e0,Bitbucket Pipelines,bitbucket pipelines,Bitbucket Pipelines,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3b9abf36ec8affdf,Blue-Green Deployment,blue-green deployment,Blue-Green Deployment,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3c71cc99d2fc1c12,Bootstrap,bootstrap,Bootstrap,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d0983a18f276e395,Business Intelligence,business intelligence,Business Intelligence,BI,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_84a516841ba77a5b,C,c,C,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2e26e62208e9e5da,C#,c#,C#,C Sharp | CSharp,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_372946aa26080e14,C++,c++,C++,CPP | C Plus Plus,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3b2019edb0a69a64,Caching,caching,Caching,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f5bf150b783a7a04,Caddy,caddy,Caddy,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b81ee3700beb4a48,CakePHP,cakephp,CakePHP,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7bab064848f25da7,Canary Deployment,canary deployment,Canary Deployment,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e8ce341368ab0b80,CAP Theorem,cap theorem,CAP Theorem,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dfc9cd3cf72f5808,Capacitor,capacitor,Capacitor,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5f67e63ee7db1fcd,Cassandra,cassandra,Cassandra,Apache Cassandra,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ac71f9b34f7a1116,CatBoost,catboost,CatBoost,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9caed18b3958eeb1,CDN,cdn,CDN,Content Delivery Network,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_641e83ce499913cb,Celery,celery,Celery,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b3a5425f7ebac5a1,CentOS,centos,CentOS,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_353fd54120c857c8,Chai,chai,Chai,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5eef5c401faba36f,Chakra UI,chakra ui,Chakra UI,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b63fe08032a6e284,Change Data Capture,change data capture,Change Data Capture,CDC,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a2ebf9eae11a528d,Chart.js,chart.js,Chart.js,ChartJS,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d5f2e5c77054c44c,Chef,chef,Chef,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_77b585d72baa753d,ChromaDB,chromadb,ChromaDB,Chroma,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_43e471c5df6420b5,CircleCI,circleci,CircleCI,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f1dda22f6c87388a,Claude,claude,Claude,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b4244d144ef49afa,Clean Architecture,clean architecture,Clean Architecture,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ce66b7447d6f8074,ClickHouse,clickhouse,ClickHouse,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_208aa4eea360700c,Clinical Data Repository,clinical data repository,Clinical Data Repository,CDR,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1a6f1dd707bc48fc,Clinical Decision Support,clinical decision support,Clinical Decision Support,CDS,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_49c91cf925f70570,Clojure,clojure,Clojure,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_33adad00d35f4a9b,Cloud Security,cloud security,Cloud Security,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6088132b1bcee5e4,COBOL,cobol,COBOL,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8ca04a8a8007947d,CockroachDB,cockroachdb,CockroachDB,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_80baf2dcfcc562db,Code Coverage,code coverage,Code Coverage,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_28edd54889487e06,Code Review,code review,Code Review,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3f2231bd5478ec4c,CodeIgniter,codeigniter,CodeIgniter,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f817ecc50fdd2b03,Computer Vision,computer vision,Computer Vision,CV,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cfca44c2f5ed9c77,Confluence,confluence,Confluence,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ac11c653f5349cd6,Content Delivery,content delivery,Content Delivery,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d40162ff0d5a95a4,Content Management System,content management system,Content Management System,CMS,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cef8c8cf3ba94968,Contentful,contentful,Contentful,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ede87a37e2f1a7fc,Continuous Delivery,continuous delivery,Continuous Delivery,CD,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2fbe8a4a8c255fce,Continuous Deployment,continuous deployment,Continuous Deployment,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_de0e29b059f3fed3,Continuous Integration,continuous integration,Continuous Integration,CI,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6c3e537b3517032a,Contract Testing,contract testing,Contract Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_82bc1eaf0a868779,Conventional Commits,conventional commits,Conventional Commits,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a98f2055f01b2e5e,Cordova,cordova,Cordova,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3b1b74c9912f037f,CORS,cors,CORS,Cross-Origin Resource Sharing,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b666d7e6b5399c72,Couchbase,couchbase,Couchbase,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4bacfd1d0585e988,CouchDB,couchdb,CouchDB,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3fbd3c64a6c1ac34,CQRS,cqrs,CQRS,Command Query Responsibility Segregation,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_02f919145acd5795,Cron,cron,Cron,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ccdb70972974fab4,Cross-Platform Development,cross-platform development,Cross-Platform Development,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5fa036a3902f737e,CSP,csp,CSP,Content Security Policy,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_51c0ae4e67ece03d,CSRF,csrf,CSRF,Cross-Site Request Forgery,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2f84417a9e73cead,CSS,css,CSS,CSS3,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e140d80b754aae30,CSS Grid,css grid,CSS Grid,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_50241ea523e9fc61,CUDA,cuda,CUDA,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_aade196c20e4262b,cuDNN,cudnn,cuDNN,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_45594cb2cb1c8665,Customer Data Platform,customer data platform,Customer Data Platform,CDP,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dc811a7086424f62,Customer Relationship Management,customer relationship management,Customer Relationship Management,CRM,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_78fd5cac8c025bab,Cybersecurity,cybersecurity,Cybersecurity,Cyber Security,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b5e13a91212d0b5d,Cypress,cypress,Cypress,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c1765fe55f00a76d,D3.js,d3.js,D3.js,D3,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0f019a3d771bf905,Dagster,dagster,Dagster,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_283c050f7f12a3d2,Dapper,dapper,Dapper,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c1785e56efbb90e2,Dart,dart,Dart,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_de0dc13f5a69c296,Data Engineering,data engineering,Data Engineering,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d30b475912bbe01d,Data Governance,data governance,Data Governance,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1342730d66f7fb67,Data Lake,data lake,Data Lake,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2a97e45366df3918,Data Lakehouse,data lakehouse,Data Lakehouse,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_781f10adeef81a47,Data Lineage,data lineage,Data Lineage,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1f807459eb78320a,Data Loss Prevention,data loss prevention,Data Loss Prevention,DLP,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2c41d2440c2ff0a4,Data Modeling,data modeling,Data Modeling,Data Modelling,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d130acca2ec8cd2a,Data Pipeline,data pipeline,Data Pipeline,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9bf6bed9f8679bd0,Data Quality,data quality,Data Quality,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e20a8b9d0a5ff91b,Data Validation,data validation,Data Validation,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8d1e65e3bddf1a32,Data Warehouse,data warehouse,Data Warehouse,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7a6f72ee96e65958,Database Indexing,database indexing,Database Indexing,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d7033743748daade,Database Normalization,database normalization,Database Normalization,Database Normalisation,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0a610cf25ef53175,Database Replication,database replication,Database Replication,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2964872565e32eae,Database Sharding,database sharding,Database Sharding,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4ed6a0f5468fe607,Database Triggers,database triggers,Database Triggers,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bff6494cad5aa6f1,Database Views,database views,Database Views,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4cde84abeaa28f1a,Databricks,databricks,Databricks,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8bab8f900ccf9edb,Datadog,datadog,Datadog,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2a07432b1b725297,dbt,dbt,dbt,Data Build Tool,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_15714baae7375127,Debezium,debezium,Debezium,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a6eb4d9d7f99ca47,Debian,debian,Debian,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_871183362fa6570a,Deep Learning,deep learning,Deep Learning,DL,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f4131cd81ebb55c4,Delphi,delphi,Delphi,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ac8773a47bdc551a,Delta Lake,delta lake,Delta Lake,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_28da42f00442fb97,Dependency Injection,dependency injection,Dependency Injection,DI,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5595578af50ec627,DHCP,dhcp,DHCP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4362226465d04179,DICOM,dicom,DICOM,Digital Imaging and Communications in Medicine,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_eccd05d345ed85cc,Disaster Recovery,disaster recovery,Disaster Recovery,DR,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8848bee6f50b731e,Distributed Systems,distributed systems,Distributed Systems,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_38fa4c2b3da05843,Distributed Tracing,distributed tracing,Distributed Tracing,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_39e5d53fbc5d9e74,Django,django,Django,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_abbc90e006c2d9b1,DNS,dns,DNS,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1e73542b712fd753,DNSSEC,dnssec,DNSSEC,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e982f17bcbe0f724,Docker,docker,Docker,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_35fcb691eaf2bd51,Docker Compose,docker compose,Docker Compose,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_762e9e9bf93cc37d,Doctrine ORM,doctrine orm,Doctrine ORM,Doctrine,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_be65d27ae088a0e0,DOM,dom,DOM,Document Object Model,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d0633a21c42d8b40,Domain-Driven Design,domain-driven design,Domain-Driven Design,DDD,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cc91513b4237037b,Drupal,drupal,Drupal,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7c515e251735f780,DynamoDB,dynamodb,DynamoDB,Amazon DynamoDB,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_da2e5812586bab7a,Echo Framework,echo framework,Echo Framework,Echo,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_532995add7004250,EHR,ehr,EHR,Electronic Health Record,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_916e8b4bc5f3eb5e,Elasticsearch,elasticsearch,Elasticsearch,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_da005969e9d1d55a,Electron,electron,Electron,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_aaff792b6d92d5e9,Electronic Patient Record,electronic patient record,Electronic Patient Record,EPR,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a5b3c5ea6c092e5c,Elementor,elementor,Elementor,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8e50d79f2ba0d665,Elixir,elixir,Elixir,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0b59b9133ab4fb9d,ELK Stack,elk stack,ELK Stack,Elastic Stack,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cfb749ab6a68c2bb,Eloquent ORM,eloquent orm,Eloquent ORM,Eloquent,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3fa503572db7bf6e,ELT,elt,ELT,Extract Load Transform,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8586c76a0032202d,Embeddings,embeddings,Embeddings,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_48a4a0cd2488fa12,EMR,emr,EMR,Electronic Medical Record,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d780042543b5df97,Encryption,encryption,Encryption,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8b8ccc4a60ac156d,Encryption at Rest,encryption at rest,Encryption at Rest,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_81757256fa93f313,Encryption in Transit,encryption in transit,Encryption in Transit,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f0a11c7ffa013362,End-to-End Testing,end-to-end testing,End-to-End Testing,E2E Testing,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_18d25417cbfc7084,Entity Framework,entity framework,Entity Framework,EF Core,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a82948a9ba1e7d2f,ePrescribing,eprescribing,ePrescribing,Electronic Prescribing,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a3c9b8e3b467b5de,Erlang,erlang,Erlang,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e0b0b26662e89d36,ESLint,eslint,ESLint,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cd22d001e3b28f57,ETL,etl,ETL,Extract Transform Load,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1a704aff9f0129de,Event Bus,event bus,Event Bus,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b85c3a841a04193b,Event Sourcing,event sourcing,Event Sourcing,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_55d79ab50d8cc4d8,Event-Driven Architecture,event-driven architecture,Event-Driven Architecture,EDA,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_af323a2616eae738,Eventual Consistency,eventual consistency,Eventual Consistency,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_41f8b48e2f3f8a81,Expo,expo,Expo,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c23fe01e2600dec4,Express.js,express.js,Express.js,Express,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_132fb172ba372300,F#,f#,F#,F Sharp,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_50bed0594992dae8,FAISS,faiss,FAISS,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_41a1373cef2a703a,FastAPI,fastapi,FastAPI,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c1855c582f748a57,Fastify,fastify,Fastify,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6d2e77f3bce270f8,FHIR,fhir,FHIR,Fast Healthcare Interoperability Resources,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_65f40afcfc2c7935,FHIR R4,fhir r4,FHIR R4,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a2065226621bf5d6,Fiber,fiber,Fiber,Go Fiber,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_92f5e8df5f3db2ea,Firebase,firebase,Firebase,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b65a493ff589c724,Firebase Cloud Messaging,firebase cloud messaging,Firebase Cloud Messaging,FCM,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fc20b5e93351edff,Firebase Realtime Database,firebase realtime database,Firebase Realtime Database,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9f8526ab1d6bbb61,Firestore,firestore,Firestore,Cloud Firestore,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6e16be5e79639195,Fivetran,fivetran,Fivetran,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e8439a6b8f01e74d,Flask,flask,Flask,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_50a32efd9d7c4ca9,Flexbox,flexbox,Flexbox,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2723c8ab7b0bea02,Flink,flink,Flink,Apache Flink,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bb21dffe5c5c3b5d,Fluent Bit,fluent bit,Fluent Bit,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d2ce2fb11b3fab27,Fluentd,fluentd,Fluentd,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ff25d17873bba4bc,Flutter,flutter,Flutter,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_701fb016dcfca9b4,Flux CD,flux cd,Flux CD,FluxCD,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c812b253a0da3ab6,Fortran,fortran,Fortran,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7616bb87bd05f643,FTP,ftp,FTP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_09b532f401931bc7,Full-Text Search,full-text search,Full-Text Search,Full Text Search,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5e718fc2b269d149,Function Calling,function calling,Function Calling,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b6e184f19d9c4814,GDPR,gdpr,GDPR,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5c5fda6d90852524,Gemini API,gemini api,Gemini API,Google Gemini,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_855d5cc73fa0cc7e,Generative AI,generative ai,Generative AI,GenAI,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_eb30564250a64314,Ghost CMS,ghost cms,Ghost CMS,Ghost,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1667f6078840a961,Gin Framework,gin framework,Gin Framework,Gin,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_46f1a0bd5592a2f9,Git,git,Git,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d2719bef7cb877cd,Git Flow,git flow,Git Flow,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e05dba947f41fd4d,Git Hooks,git hooks,Git Hooks,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5e649ca2fc8b8e4f,Git LFS,git lfs,Git LFS,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_64b2b6d12bfe4baa,GitHub,github,GitHub,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4ea69fb367e5b14d,GitHub Actions,github actions,GitHub Actions,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_322f31631de66bcf,GitLab,gitlab,GitLab,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fe670c48b8cf2faf,GitLab CI/CD,gitlab ci/cd,GitLab CI/CD,GitLab CI,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1ec558a60b5dda24,Go,go,Go,Golang,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_faec0aaf269512a0,Google Ads,google ads,Google Ads,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_544aee5cc476a6d3,Google Analytics 4,google analytics 4,Google Analytics 4,GA4,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3502bdf76d451ce9,Google App Engine,google app engine,Google App Engine,App Engine,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7aaad66e13a9ac2d,Google BigQuery,google bigquery,Google BigQuery,BigQuery,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8c80daeb5b94b7cc,Google Cloud Build,google cloud build,Google Cloud Build,Cloud Build,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5ca3180a69c2e50b,Google Cloud Functions,google cloud functions,Google Cloud Functions,Cloud Functions,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_168ab2cc72c0b47f,Google Cloud Monitoring,google cloud monitoring,Google Cloud Monitoring,Cloud Monitoring,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_de1c694dc890de02,Google Cloud Platform,google cloud platform,Google Cloud Platform,GCP,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_45f667c7ff4367f7,Google Cloud Run,google cloud run,Google Cloud Run,Cloud Run,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_69d25041a55e52d0,Google Cloud SQL,google cloud sql,Google Cloud SQL,Cloud SQL,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f2e900408be604bb,Google Cloud Storage,google cloud storage,Google Cloud Storage,GCS,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4de31b849bb061ac,Google Compute Engine,google compute engine,Google Compute Engine,GCE,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1f16e23be862b0c4,Google Firestore,google firestore,Google Firestore,Firestore,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f4a66bbd2dea8671,Google IAM,google iam,Google IAM,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_592cede053dd97d7,Google Kubernetes Engine,google kubernetes engine,Google Kubernetes Engine,GKE,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9d09989fc844f40b,Google Pub/Sub,google pub/sub,Google Pub/Sub,Pub/Sub,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7538fb55d3689e06,Google Search Console,google search console,Google Search Console,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7de84478f6b80ee4,Google Secret Manager,google secret manager,Google Secret Manager,,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d911dd87edca2add,Google Sheets,google sheets,Google Sheets,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_da46cb111b56399d,Google Tag Manager,google tag manager,Google Tag Manager,GTM,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4c16c23c34721ee8,Google Vertex AI,google vertex ai,Google Vertex AI,Vertex AI,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a23606f573a952cf,GP Connect,gp connect,GP Connect,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f519bce8b0ae84d8,Grafana,grafana,Grafana,,"Data Engineering & Analytics | DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9fdcc7f29c59e6f9,GraphQL,graphql,GraphQL,,"Backend & APIs | Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e51fddac390e9a46,Groovy,groovy,Groovy,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_25e1c28c86ab061f,gRPC,grpc,gRPC,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c3d8e988beadc340,Gutenberg,gutenberg,Gutenberg,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b6ac1c3e3b1f6f42,HAProxy,haproxy,HAProxy,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c6890bb000dd47c5,Hashing,hashing,Hashing,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f0234175f95a9894,Haskell,haskell,Haskell,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7b22e4182489e158,Haystack,haystack,Haystack,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6a3e8d77fbfef7f1,Headless CMS,headless cms,Headless CMS,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_07e9b9ba19dbb480,Health Information Exchange,health information exchange,Health Information Exchange,HIE,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fc14c6a7016ee7ed,Healthcare CRM,healthcare crm,Healthcare CRM,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2b8380dc84b4e4a5,Helm,helm,Helm,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_899784fae0db8617,Hexagonal Architecture,hexagonal architecture,Hexagonal Architecture,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8cf70a6643875e78,Hibernate,hibernate,Hibernate,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_530f76d00e6b5100,High Availability,high availability,High Availability,HA,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9861ca48f33131d3,Highcharts,highcharts,Highcharts,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b631cd7e34f9e6a2,HIPAA,hipaa,HIPAA,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_aa792d3bb51041b8,HL7,hl7,HL7,Health Level Seven,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_724c0e0912796146,HL7 v2,hl7 v2,HL7 v2,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_950a39b6c2934bb7,HTML,html,HTML,HTML5,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_77b5f8e343a90f6f,HTTP,http,HTTP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_610e5d75b7763fc6,HTTP/2,http/2,HTTP/2,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d160504960d4748d,HTTP/3,http/3,HTTP/3,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c3437dbc7c1255d3,HTTPS,https,HTTPS,,"Protocols, Networking & Architecture | Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9e002df31cb424fa,HubSpot,hubspot,HubSpot,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a4c12ff5a8d3c313,Hugging Face,hugging face,Hugging Face,HuggingFace,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_65cb8084d32e649d,Hybrid Search,hybrid search,Hybrid Search,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b9c0137d156a3a65,ICD-10,icd-10,ICD-10,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_374393e44e4b6c40,ICD-11,icd-11,ICD-11,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_96940bab9b477ad7,Idempotency,idempotency,Idempotency,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7e5f12b00fb74d2b,Identity and Access Management,identity and access management,Identity and Access Management,IAM,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_82a899dd24eba94f,IHE,ihe,IHE,Integrating the Healthcare Enterprise,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b63fbf202699ea07,IIS,iis,IIS,Internet Information Services,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0c3a5a9ff202fc5f,IMAP,imap,IMAP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_df1da55ec89d78d7,Incremental Static Regeneration,incremental static regeneration,Incremental Static Regeneration,ISR,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5e1e914cba38acaa,InfluxDB,influxdb,InfluxDB,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8cb7ffac10685ecd,Information Security,information security,Information Security,InfoSec,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2c829da302bc64f2,Infrastructure as Code,infrastructure as code,Infrastructure as Code,IaC,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5582c14f82ed0136,Integration Testing,integration testing,Integration Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_00d100749f960b0f,Ionic,ionic,Ionic,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0f8d25735ff76a07,iOS,ios,iOS,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7811a535877398bf,IPv4,ipv4,IPv4,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_138f9a7b2427c221,IPv6,ipv6,IPv6,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_872f0751e1835918,ISO 27001,iso 27001,ISO 27001,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_53a58063b8d3adf4,Istio,istio,Istio,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_917883dc82d93630,Jaeger,jaeger,Jaeger,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_23524be9dba14bc2,Java,java,Java,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b6e13ad53d8ec41b,JavaScript,javascript,JavaScript,JS,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d95b56ce41a2e1ac,Jenkins,jenkins,Jenkins,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_14fdeea7a02add9f,Jest,jest,Jest,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6a2aca9c002f3879,Jetpack Compose,jetpack compose,Jetpack Compose,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3fb76ec47a9913f6,Jira,jira,Jira,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_05ed07cf5ae1565d,JMeter,jmeter,JMeter,Apache JMeter,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6f2ab963b5a51d15,jQuery,jquery,jQuery,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_05d97e6e9834ccf0,JSON,json,JSON,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4b65db847bba0b15,JSON API,json api,JSON API,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_39d03c702b2cf2c1,JSON Web Token,json web token,JSON Web Token,JWT,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3401db8cc2a56997,JSON-RPC,json-rpc,JSON-RPC,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b43b0ad1e8108e7a,Julia,julia,Julia,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fdda4a4a842bd2bb,JUnit,junit,JUnit,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_39bebc0161c0fb8f,Jupyter Notebook,jupyter notebook,Jupyter Notebook,Jupyter,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_91052b1cecbef0d7,k6,k6,k6,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c76e548e3306cfe8,Keras,keras,Keras,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_80d4015f1f71198c,Kibana,kibana,Kibana,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_02f412090a147645,Klaviyo,klaviyo,Klaviyo,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1039dc8db1b9f8ca,Knex.js,knex.js,Knex.js,Knex,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_257dcf5c376632b4,Koa.js,koa.js,Koa.js,Koa,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_63d4c084c6ff9ef7,Kotlin,kotlin,Kotlin,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2241e51f8c328be3,Kotlin Multiplatform,kotlin multiplatform,Kotlin Multiplatform,KMP,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e183cbe80316b8b0,Kubeflow,kubeflow,Kubeflow,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_adc1f5c8707f7d7a,Kubernetes,kubernetes,Kubernetes,K8s,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_55fc18c07a8bdc91,Laboratory Information System,laboratory information system,Laboratory Information System,LIS,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_908c34705b9e30b9,LangChain,langchain,LangChain,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7b937a43bb67901c,Laravel,laravel,Laravel,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_47fc4a61117fae4a,Large Language Model,large language model,Large Language Model,LLM,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5f5555f44fb422ff,Leaflet,leaflet,Leaflet,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fa70a2b2c7dc94f0,Lerna,lerna,Lerna,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b2529232baa3b689,Less CSS,less css,Less CSS,LESS,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_95887900b3253ba9,LightGBM,lightgbm,LightGBM,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_27ae03bbf0f8c5de,Linkerd,linkerd,Linkerd,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ba324ca7b1c77fc2,Linux,linux,Linux,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ad4ba4cc53b9913b,Llama,llama,Llama,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ccd637e09500b5c6,LlamaIndex,llamaindex,LlamaIndex,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a87e9cdb2b1838c0,Load Balancer,load balancer,Load Balancer,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b86a569782d5d37e,Load Balancing,load balancing,Load Balancing,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_20c349a3f5c86e96,Load Testing,load testing,Load Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f77cf558c6b4dbb0,Locust,locust,Locust,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_42f7b07db92a254d,Logging,logging,Logging,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9208e8476a2e8adc,Logstash,logstash,Logstash,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1ef18b1d8bb88c8a,LOINC,loinc,LOINC,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a5b23f338648cb6f,Loki,loki,Loki,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4dead16a05b127a5,Looker,looker,Looker,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9ae8f3ce5b6a84e1,Looker Studio,looker studio,Looker Studio,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b8bd907ab8ef6373,Lua,lua,Lua,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dad3b4d79fbbadb4,Machine Learning,machine learning,Machine Learning,ML,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1407696e525f010b,Magento,magento,Magento,Adobe Commerce,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ecec9025f64e3a5d,Mailchimp,mailchimp,Mailchimp,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6c46d91b62f6f852,Mapbox,mapbox,Mapbox,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_378e3bcac6c74262,MariaDB,mariadb,MariaDB,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a66368dd9edf918e,Marketing Automation,marketing automation,Marketing Automation,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b5fc46df964479a8,Master Data Management,master data management,Master Data Management,MDM,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_207c97845985af61,Material UI,material ui,Material UI,MUI,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d8ff2bed1da0bac9,MATLAB,matlab,MATLAB,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_158db7827bbacd60,Medical Device Integration,medical device integration,Medical Device Integration,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_46005c7d19bbff63,Meilisearch,meilisearch,Meilisearch,MeiliSearch,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_928995d3558698d2,Mercurial,mercurial,Mercurial,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_34848391feaf7077,Merge Request,merge request,Merge Request,MR,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_52da7846e396ff38,MeSH,mesh,MeSH,Medical Subject Headings,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_279e1fb3e35e86a5,Message Queue,message queue,Message Queue,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b4272923a56625e1,Meta Pixel,meta pixel,Meta Pixel,Facebook Pixel,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4a0a491219ae93bc,Metabase,metabase,Metabase,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_966b9734015a6d61,Metrics,metrics,Metrics,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_999f3e7a70d7dbf9,Microservices,microservices,Microservices,Microservice Architecture,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9fb714bd727322a2,Microsoft Azure,microsoft azure,Microsoft Azure,Azure,Cloud - Azure & GCP,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e244534b22ef8873,Microsoft Excel,microsoft excel,Microsoft Excel,Excel,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ef4f3c67676565fe,Microsoft SQL Server,microsoft sql server,Microsoft SQL Server,MS SQL | MSSQL | SQL Server,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_61beb3b0501530ef,Microsoft Teams,microsoft teams,Microsoft Teams,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_afd84dd061397dc9,Milvus,milvus,Milvus,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_30747605e1f6faad,MinIO,minio,MinIO,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_109bd5274a4e19ca,Mistral AI,mistral ai,Mistral AI,Mistral,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cb9ee5c8840479ce,MLflow,mlflow,MLflow,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b1414d6a078fd4a7,MLOps,mlops,MLOps,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c47614267a5dacbc,Mobile App Development,mobile app development,Mobile App Development,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9b9b20e6a77425cb,MobX,mobx,MobX,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a619da43c8cb95ad,Mocha,mocha,Mocha,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d390a9eac3b95920,Model Fine-Tuning,model fine-tuning,Model Fine-Tuning,Fine Tuning,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cd37bc837d3280b9,Model Quantization,model quantization,Model Quantization,Quantization,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_34c84432d2075868,Model Serving,model serving,Model Serving,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7f1c982e835a6895,MongoDB,mongodb,MongoDB,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f25dbdd3b4e25c4a,Mongoose,mongoose,Mongoose,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d85a11d478d82425,Monolith,monolith,Monolith,Monolithic Architecture,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_46cec4dbb087a7b4,Monorepo,monorepo,Monorepo,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6c6756c82eca0bdd,MQTT,mqtt,MQTT,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e3012cc1c7df4a22,Multi-Factor Authentication,multi-factor authentication,Multi-Factor Authentication,MFA | 2FA,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_aef720517dd362a4,Mutation Testing,mutation testing,Mutation Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_484c7e7e748dd6c6,MVC,mvc,MVC,Model View Controller,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f460c882a18c1304,MySQL,mysql,MySQL,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bcd3d415b0f6f78d,Named Entity Recognition,named entity recognition,Named Entity Recognition,NER,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1cfc68a24ee56ce4,Natural Language Processing,natural language processing,Natural Language Processing,NLP,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_57f2a6a751270a8e,Neo4j,neo4j,Neo4j,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ed802a659831de50,NestJS,nestjs,NestJS,Nest.js,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_47968a14a3f734a3,Network Security,network security,Network Security,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d9a153a0543980d8,New Relic,new relic,New Relic,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_06e5127dcf4a25de,Newman,newman,Newman,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_be94a3021c0d61e2,Next.js,next.js,Next.js,NextJS,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_58a3ed6f2965252c,Nginx,nginx,Nginx,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_40a8a9faf99edebf,NHS Digital,nhs digital,NHS Digital,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6a4151bc25d0d369,NHS Login,nhs login,NHS Login,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1c034fc624157d46,NHS Spine,nhs spine,NHS Spine,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_90de35a5800eedc8,Node.js,node.js,Node.js,NodeJS | Node,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_502101a265a02512,Notion,notion,Notion,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a65e1d3845cf3b10,NumPy,numpy,NumPy,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1cc0f58dc6528db3,Nuxt.js,nuxt.js,Nuxt.js,Nuxt,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5915eb9d259318e5,NVIDIA TensorRT,nvidia tensorrt,NVIDIA TensorRT,TensorRT,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9c93b4599fe3df75,Nx,nx,Nx,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b7e9a6e2e04ed3ed,OAuth,oauth,OAuth,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_77e00091e60f9231,OAuth 2.0,oauth 2.0,OAuth 2.0,OAuth2 | OAuth,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ed702b05a18bb4c4,Objective-C,objective-c,Objective-C,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_34a1021526089c57,Observability,observability,Observability,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8ed4322e8e2790b8,Ollama,ollama,Ollama,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_96ef9e2d237fc015,ONNX,onnx,ONNX,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7bb63cf4d0d028dd,ONNX Runtime,onnx runtime,ONNX Runtime,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_afe7d8e934495722,OpenAI API,openai api,OpenAI API,OpenAI,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3101a69a049ac6ab,OpenAPI,openapi,OpenAPI,Swagger,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b3bbd363c53286e6,OpenEHR,openehr,OpenEHR,openEHR,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d7c47447f819f291,OpenID Connect,openid connect,OpenID Connect,OIDC,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e96d46087452af9a,OpenSearch,opensearch,OpenSearch,Amazon OpenSearch,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_808c8a73edef058f,OpenTelemetry,opentelemetry,OpenTelemetry,OTel,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c6eabcc4c2358cd7,OpenTofu,opentofu,OpenTofu,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0f66728a8a4c47d2,Opsgenie,opsgenie,Opsgenie,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_642e5bd868ab2675,Optical Character Recognition,optical character recognition,Optical Character Recognition,OCR,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ec28fe202f3cb83e,Oracle Database,oracle database,Oracle Database,Oracle DB,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e14417261dfcd64f,ORM,orm,ORM,Object Relational Mapping,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0f01547c2b7b7c4f,OWASP,owasp,OWASP,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b365471d52826922,OWASP Top 10,owasp top 10,OWASP Top 10,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ef150cb9513e780b,Packer,packer,Packer,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_91ee514191b45f78,PACS,pacs,PACS,Picture Archiving and Communication System,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_66b2fcbc520c25a8,PagerDuty,pagerduty,PagerDuty,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_add564b5920b7f9e,Pandas,pandas,Pandas,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_58906f6538223eba,Parcel,parcel,Parcel,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b70aff7bfa0051bc,Parquet,parquet,Parquet,Apache Parquet,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_de9b8d32d21ac4ab,Pascal,pascal,Pascal,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b28fd910f0f052f4,Patient Administration System,patient administration system,Patient Administration System,PAS,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_40f2e2d0cc33de7c,Payment Gateway,payment gateway,Payment Gateway,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d0f4a619267bb2f4,PCI DSS,pci dss,PCI DSS,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c7ca27ec7d78a676,Penetration Testing,penetration testing,Penetration Testing,Pentest,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6b99c4125aa6a8fc,Performance Testing,performance testing,Performance Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_15b94a66acd70379,Perl,perl,Perl,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0f15144b9c921eb4,Pest PHP,pest php,Pest PHP,Pest,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ed4fd69fb6b5f29d,Phoenix Framework,phoenix framework,Phoenix Framework,Phoenix,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_47425e4490d15487,PHP,php,PHP,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cd00448f9c51a50a,PHPUnit,phpunit,PHPUnit,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6910d4d0949e964d,Pimcore,pimcore,Pimcore,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_79458ad4c28aad13,Pinecone,pinecone,Pinecone,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ba9a52e06a13ed72,PL/SQL,pl/sql,PL/SQL,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d1a7b46eaec02166,PlanetScale,planetscale,PlanetScale,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7cbdd1ebf0c21f7c,Playwright,playwright,Playwright,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b1fbedd8bea6663f,PM2,pm2,PM2,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cb3c65b8ca52c422,POP3,pop3,POP3,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_519968cbed983352,PostgreSQL,postgresql,PostgreSQL,Postgres,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7ec5f7e03481cdff,Postman,postman,Postman,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_32beb5519f699e42,Power BI,power bi,Power BI,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0ecb32ead414fafc,PowerShell,powershell,PowerShell,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2f52178401537344,Prefect,prefect,Prefect,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9fd021d1231bba79,Prettier,prettier,Prettier,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6f94de6b7214fd9e,Prisma,prisma,Prisma,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_13eff460562a4b14,Progressive Web App,progressive web app,Progressive Web App,PWA,Frontend & Web | Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_aad8f23c2fa06d46,Prometheus,prometheus,Prometheus,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c72b1d708d0da13c,Prompt Engineering,prompt engineering,Prompt Engineering,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ec0b12fb4324486f,Protocol Buffers,protocol buffers,Protocol Buffers,Protobuf,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4a835a76e9eee9dd,Public Key Infrastructure,public key infrastructure,Public Key Infrastructure,PKI,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3ca779aa35111fa4,Publish Subscribe,publish subscribe,Publish Subscribe,Pub/Sub,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_51ae8d2d0402cf39,Pull Request,pull request,Pull Request,PR,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e38ce0efa02a3cd5,Pulumi,pulumi,Pulumi,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_980a047f2126b284,Puppet,puppet,Puppet,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b04f5f6dbab2b8aa,Puppeteer,puppeteer,Puppeteer,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_79857dd98e6a8e86,PySpark,pyspark,PySpark,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0eaa389e1fdb3a19,Pytest,pytest,Pytest,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4235227b51436ad8,Python,python,Python,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dfecc9eaf34df24b,PyTorch,pytorch,PyTorch,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f69fbdf9ba1a9484,Qdrant,qdrant,Qdrant,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_23c19c93518de340,Quality Assurance,quality assurance,Quality Assurance,QA,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f751b8828ef23efd,Qwen,qwen,Qwen,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4dc7c9ec434ed065,R,r,R,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d37a9628bc10a881,RabbitMQ,rabbitmq,RabbitMQ,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c1c2145a4aa45bbd,Rate Limiting,rate limiting,Rate Limiting,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6b810c90aa9a9985,React,react,React,React.js | ReactJS,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a27d4ed50cd5a170,React Native,react native,React Native,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bb64ce9ca4971cb9,Recommendation System,recommendation system,Recommendation System,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ce4e0d96af8ad06a,Red Hat Enterprise Linux,red hat enterprise linux,Red Hat Enterprise Linux,RHEL,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b840fc02d5240454,Redis,redis,Redis,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_80c932ecf5690593,Redux,redux,Redux,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bbcdd87a12c6a846,Redux Toolkit,redux toolkit,Redux Toolkit,RTK,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3a7b1f96af98da40,Regression Testing,regression testing,Regression Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dd424f13877cce80,Reinforcement Learning,reinforcement learning,Reinforcement Learning,RL,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b6ccfcaea5ea8b7f,Remote Patient Monitoring,remote patient monitoring,Remote Patient Monitoring,RPM,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ff0197b5a3f0627e,Repository Pattern,repository pattern,Repository Pattern,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_216b72e976ad026a,Reranking,reranking,Reranking,Re-ranking,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_548c8917314b1abb,Responsive Mobile Design,responsive mobile design,Responsive Mobile Design,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6c62444e50a63612,Responsive Web Design,responsive web design,Responsive Web Design,RWD,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_27ad1672d8c97d74,REST,rest,REST,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a382eb2889caf91b,REST API,rest api,REST API,RESTful API | REST,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dcd0a79f9d9191d6,Retrieval-Augmented Generation,retrieval-augmented generation,Retrieval-Augmented Generation,RAG,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9accc4d86a7eb87f,Reverse Proxy,reverse proxy,Reverse Proxy,,"DevOps, SRE & Infrastructure | Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_72d14d174b071664,RIS,ris,RIS,Radiology Information System,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f144379050985ebf,Rocky Linux,rocky linux,Rocky Linux,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0b87104ed7c2ba18,Role-Based Access Control,role-based access control,Role-Based Access Control,RBAC,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c606dcff0fcf98d7,Rollup,rollup,Rollup,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e64b40f2bd5c8a95,RPC,rpc,RPC,Remote Procedure Call,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_01e4715cd1f1397a,RSA,rsa,RSA,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5a0af1c786d03080,RSpec,rspec,RSpec,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_18e40e1401eef67e,Ruby,ruby,Ruby,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_62da32c42613e40e,Ruby on Rails,ruby on rails,Ruby on Rails,Rails,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7b41f80fc68bc2a9,Rust,rust,Rust,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_184aca4ea334970c,RxJS,rxjs,RxJS,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c485cbafcf88070a,RxNorm,rxnorm,RxNorm,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d77b13fada6308c9,Salesforce,salesforce,Salesforce,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2ab5d36446788efe,SAML,saml,SAML,SAML 2.0,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_dc6c4c5197b3b53d,Sanity,sanity,Sanity,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_70f4dcc5ebe585df,Sanity Testing,sanity testing,Sanity Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5d7463cd9fe42090,Sass,sass,Sass,SCSS,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_54274edafa757bbe,Scala,scala,Scala,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ffe14662a1c3987b,scikit-learn,scikit-learn,scikit-learn,sklearn,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_28375a65a2058792,SciPy,scipy,SciPy,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ffdf8c66d3c22ed4,Scratch,scratch,Scratch,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_016a0ff5599dd358,Search Engine Optimization,search engine optimization,Search Engine Optimization,SEO,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1ef4819d24554dd2,Secrets Management,secrets management,Secrets Management,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e97d24fd6036be5c,Secure Coding,secure coding,Secure Coding,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_316fc31bb8e2941b,Security Operations Center,security operations center,Security Operations Center,SOC,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1459928817c22d7a,Security Testing,security testing,Security Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6a80eba8ec04ef53,Segment,segment,Segment,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_781b4ea1d8536669,Selenium,selenium,Selenium,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d2304a4c106dcbbc,Self-Supervised Learning,self-supervised learning,Self-Supervised Learning,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_22d6d0bafcce805d,Semantic Search,semantic search,Semantic Search,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d8d383503b80c57a,Semantic Versioning,semantic versioning,Semantic Versioning,SemVer,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c4caeb107635eb6a,Sentence Transformers,sentence transformers,Sentence Transformers,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6645745aaa70517c,Sentiment Analysis,sentiment analysis,Sentiment Analysis,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_244af7a99af79832,Sentry,sentry,Sentry,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_35595a70b09fdf9f,Sequelize,sequelize,Sequelize,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ae21823aa741aee4,Server-Sent Events,server-sent events,Server-Sent Events,SSE,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_353a40a121cede9d,Server-Side Rendering,server-side rendering,Server-Side Rendering,SSR,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_89affbf98a2ee98d,Serverless,serverless,Serverless,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9fbf55e5e3e05f29,Service Mesh,service mesh,Service Mesh,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8047e16a51d871c6,Service Worker,service worker,Service Worker,Service Workers,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fdf740d1da25050f,SFTP,sftp,SFTP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3dec6f1e1c897fbb,Shadow DOM,shadow dom,Shadow DOM,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c3a45cb7e1dc3e2c,Shopify,shopify,Shopify,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_26bb1811825eb0d2,Shopify Admin API,shopify admin api,Shopify Admin API,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e3e84b72a1b0dd2b,Shopify GraphQL,shopify graphql,Shopify GraphQL,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a892c20004f0832e,Shopify Liquid,shopify liquid,Shopify Liquid,Liquid,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b51cd9643d6e019c,Shopify Polaris,shopify polaris,Shopify Polaris,Polaris,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5620f2a308c5c0d1,Shopify Storefront API,shopify storefront api,Shopify Storefront API,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_47804a4ced553b87,SIEM,siem,SIEM,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_98475cbafdf0a5dc,Single Page Application,single page application,Single Page Application,SPA,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_23abfe1d09f652ca,Single Sign-On,single sign-on,Single Sign-On,SSO,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a454cbd3300e07e8,Site Reliability Engineering,site reliability engineering,Site Reliability Engineering,SRE,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0ffe6c3e1f43f953,Slack,slack,Slack,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9cb764e9c2e1d43c,Smoke Testing,smoke testing,Smoke Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9a0e0d6652749eb5,SMTP,smtp,SMTP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_eec94c3a24313f62,SNOMED CT,snomed ct,SNOMED CT,SNOMED,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b0c5516f28a7c36b,Snowflake,snowflake,Snowflake,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f6c1ab81815f784f,SOAP,soap,SOAP,SOAP API,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9c7ad58624a7d90a,SOC 2,soc 2,SOC 2,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b4a15d9b72235213,Software Testing,software testing,Software Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9da3f5e0438f4c59,Solidity,solidity,Solidity,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_68b3ab5f7810a998,SonarQube,sonarqube,SonarQube,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_26b9cc7f02845df9,Speech Recognition,speech recognition,Speech Recognition,Automatic Speech Recognition | ASR,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d5867346196ad55d,Spinnaker,spinnaker,Spinnaker,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_aeb184e6540289aa,Spring Boot,spring boot,Spring Boot,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_69cd68eaf3fca1b7,Spring Framework,spring framework,Spring Framework,Spring,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_db1dfd45b163e0f2,SQL,sql,SQL,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f9c65fbf8f46db55,SQL Injection,sql injection,SQL Injection,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3c30e6762d7f9786,SQL Query Optimization,sql query optimization,SQL Query Optimization,SQL Tuning,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6d64a5ee3d487558,SQLite,sqlite,SQLite,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e8b9f665f844bf5d,SSH,ssh,SSH,Secure Shell,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_20a24593f82e5739,SSL,ssl,SSL,Secure Sockets Layer,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_46c4866df30fbd15,Static Analysis,static analysis,Static Analysis,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_240fed7669029795,Static Site Generation,static site generation,Static Site Generation,SSG,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_56ef4fc2982ca6c8,Stored Procedures,stored procedures,Stored Procedures,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f8437193862b78da,Storybook,storybook,Storybook,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f2c4ab39ad848531,Strapi,strapi,Strapi,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f255ecd7480bad3d,Stress Testing,stress testing,Stress Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2fcb5a43a42afa8e,Stripe,stripe,Stripe,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2f8c92a2c4a624e5,Structured Outputs,structured outputs,Structured Outputs,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5b2fb32768e94df2,Supabase,supabase,Supabase,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_691b18bc7ae4293d,Supervised Learning,supervised learning,Supervised Learning,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0f4d09e43d208d5e,Supervisor,supervisor,Supervisor,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c69fc21687b604f4,Svelte,svelte,Svelte,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9ebdc3f18dd51026,SvelteKit,sveltekit,SvelteKit,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5bada6ad649e470d,SVN,svn,SVN,Subversion,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_49dab5697b643354,Swift,swift,Swift,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b2127bd679a846b2,SwiftUI,swiftui,SwiftUI,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_18a05c51097179aa,Symfony,symfony,Symfony,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_5cacb1c30c69d3e1,Systemd,systemd,Systemd,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3f20c95645c39d59,T-SQL,t-sql,T-SQL,Transact-SQL,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_e4ff4ad07cfd70e0,Tableau,tableau,Tableau,,Data Engineering & Analytics,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8ca00dfe128323eb,Tailwind CSS,tailwind css,Tailwind CSS,Tailwind,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_529551811fe28b30,Tauri,tauri,Tauri,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6ce375e315d720af,TCP,tcp,TCP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c56b3e51616a4766,TCP/IP,tcp/ip,TCP/IP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fd37cc0f60f56546,TeamCity,teamcity,TeamCity,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_44d8fce2c8f23367,Telehealth,telehealth,Telehealth,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1c6c1e0c71e2ea2b,Telemedicine,telemedicine,Telemedicine,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3d3f421e9db6d97a,TensorFlow,tensorflow,TensorFlow,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_75ada95d871dcca8,Terraform,terraform,Terraform,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_366035087b65847f,Test Automation,test automation,Test Automation,Automated Testing,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_215de4b2f69e384a,Test-Driven Development,test-driven development,Test-Driven Development,TDD,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b52d894bf1437293,TestNG,testng,TestNG,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b8c711da13355bce,Text-to-Speech,text-to-speech,Text-to-Speech,TTS,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6befbdec692691ec,Threat Modeling,threat modeling,Threat Modeling,Threat Modelling,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c441435c0602c49b,Three.js,three.js,Three.js,ThreeJS,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4df56fc09a3e66b4,TiDB,tidb,TiDB,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_831810954281c4db,Time Series Forecasting,time series forecasting,Time Series Forecasting,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f48c84c093f87f09,TimescaleDB,timescaledb,TimescaleDB,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4929fca9d47db1f6,TLS,tls,TLS,Transport Layer Security,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6ed1b58b6b592706,TOML,toml,TOML,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cd4bcb207441666c,Tool Calling,tool calling,Tool Calling,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a83e2ce54bbef3be,Traefik,traefik,Traefik,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8d360121ad2c7303,Transfer Learning,transfer learning,Transfer Learning,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_bc5f3957f70db91b,Transformers,transformers,Transformers,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_206280e5102cd858,Travis CI,travis ci,Travis CI,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_507a475080d429a5,Trunk-Based Development,trunk-based development,Trunk-Based Development,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9083093148ab9244,Turborepo,turborepo,Turborepo,,Version Control & Collaboration,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6b89798736a4ac32,TypeORM,typeorm,TypeORM,,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_fb9da861bdb8895c,TypeScript,typescript,TypeScript,TS,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_24bf68e341ce0fbd,Ubuntu,ubuntu,Ubuntu,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_36cf8bee2cb812f7,UDP,udp,UDP,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_d75dff57b5f5defc,UIKit,uikit,UIKit,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_742af637f21c9883,UK GDPR,uk gdpr,UK GDPR,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2f246e86202cf16b,UMLS,umls,UMLS,Unified Medical Language System,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7f106cfbc270d99c,Unit Testing,unit testing,Unit Testing,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_eca1f4958593d680,Unsupervised Learning,unsupervised learning,Unsupervised Learning,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4816a4d7633279fa,User Acceptance Testing,user acceptance testing,User Acceptance Testing,UAT,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b03fe988f8d55b87,Vagrant,vagrant,Vagrant,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_a64c89f2592b4dcc,Vault,vault,Vault,HashiCorp Vault,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f9f02ff89b4b9f55,VB.NET,vb.net,VB.NET,Visual Basic .NET,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_61caa960c5cbc9f2,VBA,vba,VBA,Visual Basic for Applications,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_12c755fe949ef9a7,Vector Database,vector database,Vector Database,Vector DB,"Databases, Search & Storage",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_32e89e3b9d566fa1,Vector Embeddings,vector embeddings,Vector Embeddings,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_7597179b7624c237,Vector Search,vector search,Vector Search,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b9688b07186e9626,Visual Basic,visual basic,Visual Basic,,Programming Languages,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9907d3c4bf844c50,Vite,vite,Vite,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4c9cfa13305e694b,Vitest,vitest,Vitest,,Testing & Quality Assurance,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_87185e8f7f8341c4,vLLM,vllm,vLLM,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_10bd3a19a8ee4452,VPC,vpc,VPC,Virtual Private Cloud,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3fe17355b464b770,VPN,vpn,VPN,Virtual Private Network,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3f7227146eb759f8,Vue.js,vue.js,Vue.js,Vue | VueJS,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_73703a0391560670,Vulnerability Assessment,vulnerability assessment,Vulnerability Assessment,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_0c7f4a65d378e5ff,WCAG,wcag,WCAG,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_9823ae94c237cade,Weaviate,weaviate,Weaviate,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c523a677bfa68264,Web Application Firewall,web application firewall,Web Application Firewall,WAF,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1b40bbed2f67df55,Web Components,web components,Web Components,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_6f691033a9d90983,Webflow,webflow,Webflow,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_49cef82d48f24a7d,WebGL,webgl,WebGL,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c1f7e99ccecef1fd,Webhooks,webhooks,Webhooks,Webhook,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_057b6197438cfa30,Webpack,webpack,Webpack,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_2b1b9b5431d9f45e,WebRTC,webrtc,WebRTC,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_67c371fd204fbcbf,WebSocket,websocket,WebSocket,WebSockets,"Backend & APIs | Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c120a0b8192aa9eb,Weights & Biases,weights and biases,Weights & Biases,W&B | WandB,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4a02811030962b84,Whisper,whisper,Whisper,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c36be1b4f1ed5aa6,Windows Server,windows server,Windows Server,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_4673df70062f9121,WooCommerce,woocommerce,WooCommerce,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_b1909932aac1c551,WordPress,wordpress,WordPress,,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_3dbe35d531115d8b,WP-CLI,wp-cli,WP-CLI,WordPress CLI,"CMS, eCommerce & Marketing Tech",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8967d7097a1e7735,Xamarin,xamarin,Xamarin,,Mobile & Desktop,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_21d5ce15955028f2,XDS,xds,XDS,Cross-Enterprise Document Sharing,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_f3105f7eafd1d2ed,XGBoost,xgboost,XGBoost,,"AI, ML & Generative AI",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_42f7b70ed71b0278,XML,xml,XML,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1ae33e0b893f8e8e,XML-RPC,xml-rpc,XML-RPC,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_8eaee405c384e734,XSS,xss,XSS,Cross-Site Scripting,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c94c088e2698f040,YAML,yaml,YAML,,"Protocols, Networking & Architecture",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1f98a30cc85d94df,Yii,yii,Yii,,Backend & APIs,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_ee9b83113b220b9b,Yoti,yoti,Yoti,,Healthcare IT & Interoperability,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_1b1e8ebb2feda2ed,Zero Trust,zero trust,Zero Trust,,"Security, Identity & Compliance",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cfa0ba6c2e2e28cd,Zipkin,zipkin,Zipkin,,"DevOps, SRE & Infrastructure",,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_c45019a44a2fafe6,Zustand,zustand,Zustand,,Frontend & Web,,80,True,Curated eSupraLife technical vocabulary,technical_autosuggestion
+tech_cdfe3e2de8c29819,AdSense,adsense,AdSense,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_01b3c242e050ee8c,Affiliate marketing,affiliate marketing,Affiliate marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_47aabf3677dd23f5,Application &Web development,application and web development,Application &Web development,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_7296475f5019403b,Audio Developments,audio developments,Audio Developments,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_e350e71524ac6197,Business Development,business development,Business Development,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_c5121d654f508e5e,Content marketing,content marketing,Content marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_8762846744a763b4,Data Analytics,data analytics,Data Analytics,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_ef07e6a01babf03a,Data Entry,data entry,Data Entry,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_1b08ec3b9487879b,Data Visualization,data visualization,Data Visualization,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_3511d6edbf28f8d4,Direct marketing,direct marketing,Direct marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_e202a61de27acbd3,E-commerce marketing,e-commerce marketing,E-commerce marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_e5e2e3ccd39fe947,Email marketing,email marketing,Email marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_22f902bed8780113,Exhibition marked marketing,exhibition marked marketing,Exhibition marked marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_8ef744707467c39f,Experimental marketing,experimental marketing,Experimental marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_644a1e2f0811033b,Facebook marketing,facebook marketing,Facebook marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_88ae92e7a7e685b6,General IT help,general it help,General IT help,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_1da2c857c3ae1449,Influencer marketing,influencer marketing,Influencer marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_6325e9bbe707b8dd,Instagram marketing,instagram marketing,Instagram marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_f4ff2528f4d4545a,LinkedIn marketing,linkedin marketing,LinkedIn marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_9fbdad96d0c1f5d5,Loyalty marketing,loyalty marketing,Loyalty marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_418a805d74ea3bef,Medical E-commerce Management,medical e-commerce management,Medical E-commerce Management,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_08a5a53dc7917f90,Mobile marketing,mobile marketing,Mobile marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_1e77bc2669bd196a,Pinterest marketing,pinterest marketing,Pinterest marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_0153d3ee3f2214f0,Podcast marketing,podcast marketing,Podcast marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_7a9bbff856ea046d,Programming & Tech Projects,programming and tech projects,Programming & Tech Projects,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_6170ca2b023edf54,Seo,seo,Seo,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_80e687b058d833c9,Snapchat marketing,snapchat marketing,Snapchat marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_ea6aea2ebdef9633,Twitter marketing,twitter marketing,Twitter marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_8b67f44c1132ffb0,Video marketing,video marketing,Video marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_65445fe5c0879fed,Viral marketing,viral marketing,Viral marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_37bcba6b75f1d6e2,Web analytics,web analytics,Web analytics,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_93559c137a8f58fc,Web and IT Solutions,web and it solutions,Web and IT Solutions,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_294de7736949b5ff,"Web maintenance (Updates, Upload, Bug Fixes)",web maintenance updates upload bug fixes,"Web maintenance (Updates, Upload, Bug Fixes)",,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_8beaf4bf77aa47ac,WeChat marketing,wechat marketing,WeChat marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion
+tech_64b1bf35eedcf64f,YouTube marketing,youtube marketing,YouTube marketing,,eSupraLife Internal Technical Taxonomy,,65,True,eSupraLife RESTUCTURED_INDEX_EXCEL,technical_autosuggestion

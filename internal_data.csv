@@ -1,0 +1,642 @@
+﻿id,term,normalized,aliases,internal_types,source_columns,priority,active,source,kind
+internal_97bce79a817ed01d,British Acupuncture Council,british acupuncture council,BAcC | British Acupuncture Council,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9bd92bd23800c1ce,Care Quality Commission (CQC),care quality commission cqc,CQC | Care Quality Commission,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5c20bcdf11fa2cb7,General Dental Council (GDC),general dental council gdc,GDC | General Dental Council,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4dfc86e17970f1b1,General Pharmaceutical Council (GPhC),general pharmaceutical council gphc,GPhC | General Pharmaceutical Council,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ec70b30b7f2646a6,GMC,gmc,,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8d7c09870203bcca,Health and Care Professions Council (HCPC),health and care professions council hcpc,HCPC | Health and Care Professions Council,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_34742e7177dc373a,Nursing and Midwifery Council (NMC),nursing and midwifery council nmc,NMC | Nursing and Midwifery Council,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5a6bb4706543ad2b,Royal College of Veterinary Surgeons,royal college of veterinary surgeons,RCVS | Royal College of Veterinary Surgeons,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d36000e5d33c0b89,Solicitors Regulation Authority (SRA),solicitors regulation authority sra,SRA | Solicitors Regulation Authority,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d9ca7e765a98d032,University Email,university email,,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_50d8b4a941c26b89,Unknown,unknown,,credential_verification_body,H,90,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_589d230a8d00f115,Individual,individual,,provider_type,I,85,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9bf0ba98625e4135,Organisation,organisation,,provider_type,I,85,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_80405cae5ab478f1,Accident & Personal injury law,accident and personal injury law,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2c5866c390f8af01,Acupuncture,acupuncture,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9e255634d6b2c57b,Acute internal medicine,acute internal medicine,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_403765fa8d1132ab,Administration assistance,administration assistance,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_69992e922847fb8c,Allergy and immunology,allergy and immunology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e2427c2db65c9cfd,Ambulances,ambulances,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_38b0a303e02cf62f,Anatomist,anatomist,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8d9cb0c390af401f,Anesthesiology,anesthesiology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_27fed9b5fe7bfd72,Arbitration & Mediation,arbitration and mediation,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e57be4369e727878,Aromatherapy,aromatherapy,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_72ff7d66ece79280,Arts therapists,arts therapists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e51cc103142427e8,Biomedical scientists,biomedical scientists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_eb49f956d8883f9a,Blood and transplant service,blood and transplant service,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_97b7921883067d84,Cardio-thoracic surgery,cardio-thoracic surgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3a516eabc948b1b1,Cardiology,cardiology,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment | level_5_organisation_subdepartment,B | D | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3e135e5036a4b86c,Care Homes,care homes,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ab66bcc8bb329e4f,Child and adolescent psychiatry / Mental Health,child and adolescent psychiatry / mental health,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6f272c4c8900a734,Children Law related to medicine,children law related to medicine,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ef8450c94839fd24,Chiropodists/Podiatrists,chiropodists/podiatrists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cdaaa12922c06f8f,Clinic,clinic,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e8e397637ea9630a,Clinical scientists,clinical scientists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_29ab05fe1df59502,Coaching,coaching,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6601d8486149c661,Community services,community services,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e86e5268490fa076,Cosmetic dentistry,cosmetic dentistry,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9216731d30e57d9e,Criminal law related to body harm,criminal law related to body harm,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4de5b4c5c54f71bc,Dental and maxillo-facial radiology,dental and maxillo-facial radiology,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b6a4a1853f32985c,Dental public health,dental public health,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ff6a6e84926c03f3,Dentistry,dentistry,,level_1_search_category | level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,A | B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_94a8c135eebb5b94,Dermatology,dermatology,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment | level_5_organisation_subdepartment,B | D | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_aa8e4d842be9d39b,Diagnosis Radiology Centre,diagnosis radiology centre,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d05f29ccba0c86ae,Dietitian,dietitian,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_17fca4178dcf3ede,Education disability services,education disability services,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9bebed79ed3ffae0,EFT (Emotional Freedom Techniques) therapy,eft emotional freedom techniques therapy,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7f8aa1c4fba84ace,Elderly Care General Law,elderly care general law,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e5f60b76128b53fe,Elderly Care Home Fees Law,elderly care home fees law,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ebb4e2039acdd8d0,Emergency medicine,emergency medicine,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1084f3cddf52a88e,Endocrinology and diabetes mellitus,endocrinology and diabetes mellitus,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0ed7e931d69516ac,Endodontics,endodontics,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cb26cf025ebebbed,Family & Relationship Law related to medicine,family and relationship law related to medicine,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e6eaf414a9c52a49,Fitness & Wellness Department,fitness and wellness department,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9391cbf0c29fd783,Forensic histopathology,forensic histopathology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1385f64cee2a755a,Forensic psychiatry / Forensic Mental Health,forensic psychiatry / forensic mental health,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1f68b4dbe31c5368,Gastro-enterology,gastro-enterology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d0538d57f7573a93,Gastrointestinal Surgery,gastrointestinal surgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4edeced1c0d9655a,General Chiropractic,general chiropractic,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a02d3eab9a55dc93,General dentist,general dentist,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ae33fe8ec69b510f,General Medical Law,general medical law,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3abb65ae780be297,General surgery,general surgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5deb7712610a5f87,Genetics / Genomics,genetics / genomics,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_714b7b6cf5ac4653,Genito-urinary medicine / sexual and reproductive health,genito-urinary medicine / sexual and reproductive health,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_def41daeace58434,Geriatric medicine,geriatric medicine,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_50a5e1e271fd60c6,Geriatric-old age psychiatry / Mental Health,geriatric-old age psychiatry / mental health,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cab97ef9cc9f2805,Gynaecology and Obstetrics,gynaecology and obstetrics,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8e5d69ccac746a26,Haematology,haematology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_52d77ab18e44c924,Health Student / Trainee (other than medical student),health student / trainee other than medical student,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f39d035ced4a916f,Hearing aid dispensers,hearing aid dispensers,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b42a37f3ec3883a1,Holistic & Mind-Body Wellness,holistic and mind-body wellness,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5fcd6519c30f9f7f,Home hospice care,home hospice care,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e11d0ef12d147276,Homecare agencies,homecare agencies,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_71e6016c88bd0065,Homeopathy,homeopathy,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ce42f897ed124f59,Hospice,hospice,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2b2d005e88ce14a4,Hospital,hospital,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3bbc8027422bb653,Hygienist,hygienist,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9c1b4494b333989e,Hyperbaric chamber services,hyperbaric chamber services,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a8e0e650ac24e2a5,Infectious diseases,infectious diseases,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_06e445fae24d2119,Intensive Crtical Care,intensive crtical care,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_20725cb1b8af1cd2,IT Services,it services,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6a1ffbcbe1ae86c0,Lasting power of attorney - Health and Welfare Mental Capacity Law,lasting power of attorney - health and welfare mental capacity law,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_626f83211c4ef31c,Lasting power of attorney - Property and affairs Mental Capacity Law,lasting power of attorney - property and affairs mental capacity law,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b3a2b74799f0bf50,Lasting power of attorney- Ggeneral,lasting power of attorney- ggeneral,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ab3fd14d4c366049,Learning Disability,learning disability,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_41f6828f8fa7e6c9,Legal Services for Healthcare Providers,legal services for healthcare providers,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b6b1ccba0d865385,Marketing & Branding,marketing and branding,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2b93cb761af8b364,Medical Accounting,medical accounting,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_db2c147c0f05c6be,Medical Aesthetics,medical aesthetics,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_656011338f2dffd6,Medical Finance,medical finance,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fd62dba6cd7544cc,Medical Interpreters,medical interpreters,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5625791479175ced,Medical Management & Development,medical management and development,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_46f7be8ab2e3dadd,Medical Market Research,medical market research,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fb756d310001e0b4,Medical Music & Audio,medical music and audio,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_32610e9c3e4dcfc1,Medical negligence law,medical negligence law,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c863a40627c47462,Medical Research Projects Looking For Volunteers,medical research projects looking for volunteers,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3eca1a6e3fc7d844,Medical Student,medical student,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ab8f9851dc02f804,Medical Translation,medical translation,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_747cf71a340bb3fe,Medical Translators,medical translators,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_96898b0eb414ce7a,Medical Writing,medical writing,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6e77a66b8e67e05c,Meditation,meditation,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5a61faedb5fb90d0,Mental capcity,mental capcity,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f0d18a11393f56df,Mental health,mental health,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_93cf2e51d0b97365,Mental Wellness,mental wellness,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_70ccd60de7f6b398,Microbiology and virology,microbiology and virology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f26b32547dd593e0,Midwifery,midwifery,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a0c33a02159e87e0,Midwifery & nursery specialities,midwifery and nursery specialities,,level_1_search_category | level_2_sub_department,A | B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6dea7118033d3867,Nephrology Renal medicine,nephrology renal medicine,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fadc28e05c17091e,Neurology,neurology,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment | level_5_organisation_subdepartment,B | D | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b27f6fc44a04c51d,Neuropathology,neuropathology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b1cce24acbc7dee5,Neurophysiology,neurophysiology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_00cc8d4e180cd7f8,Neuroradiology,neuroradiology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d73943d62a87cd5f,Neurosurgery,neurosurgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_285f9a003f671c24,Nurse,nurse,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a8dea297ba747e69,Nursing,nursing,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b839c23ac6089ca1,Nutritional Wellness,nutritional wellness,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4100459adc9da1d2,Nutritionist,nutritionist,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e0e0e3631e68229e,Occupational medicine / Occupational therapy,occupational medicine / occupational therapy,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_da23e87add778b90,Occupational therapists,occupational therapists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_758f4200743c3bc2,Office Cleaning,office cleaning,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_05f4d74b075b72f9,Office/practice,office/practice,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5e808a258a415993,Old age / Geriatric psychiatry -Mental Health,old age / geriatric psychiatry -mental health,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a05112678222a52a,Oncology,oncology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_aa1bc3a6da1b71eb,Online advice,online advice,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_42ec17f407a879fb,Operating department practitioners,operating department practitioners,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_948ad92ab113a450,Ophthalmology,ophthalmology,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment | level_5_organisation_subdepartment,B | D | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_08679d4fc800e567,Optometrist,optometrist,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e925e094d613a0d9,Oral Medicine,oral medicine,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment | level_5_organisation_subdepartment,B | D | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0887c67f6adb25c8,Oral Surgery / maxillo-facial surgery,oral surgery / maxillo-facial surgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_799d95d3bdb8827d,Orthodontics,orthodontics,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0db7813306f7e44f,Orthopaedic surgery,orthopaedic surgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6f1fa70a8b73c2ea,Orthoptists,orthoptists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3baaab9a56d809d4,Osteopathy,osteopathy,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f29bd28f2e075b68,Otolaryngology ENT Facial Plasty /Audiovestibular medicine,otolaryngology ent facial plasty /audiovestibular medicine,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_373a97a26d401ac0,Paediatric cardiology,paediatric cardiology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a94e7faaa8e88d87,Paediatric dentistry,paediatric dentistry,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_58dcda6e01f54f2d,Paediatric surgery,paediatric surgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_db90cf31cf8da8a2,Paramedics,paramedics,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a5b5400cd6b9c9b2,Pathology Histopatholog,pathology histopatholog,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_44621d2d664a2731,Pediatric Dentistry,pediatric dentistry,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_769aec9c56d70a18,Pediatrics Medicine,pediatrics medicine,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_609b66b436905b24,Periodontics,periodontics,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c0755c8ac8b27b61,Pharmacist,pharmacist,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_adfa59cc50d2bd2c,Pharmacy,pharmacy,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_42c28a30b70d89cc,Pharmacy technician,pharmacy technician,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_549893038478597b,Phone advice,phone advice,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_51bcced6e6c5e6c0,Physical Fitness Specialists,physical fitness specialists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_103f9a13655cc8c1,Physiotherapists,physiotherapists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1081029d4505d012,Plastic surgery,plastic surgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2ba9e8a0b7c555b6,Podiatry,podiatry,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_145082c94b8e2dde,Post Graduate Trainee,post graduate trainee,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2224b82fc9051a13,Practitioner psychologists,practitioner psychologists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_70a6e9952cab21fd,Prison healthcare,prison healthcare,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f0cc2f3696ad7277,Prosthetists /Orthotists,prosthetists /orthotists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d94fcf7e52f6b2a7,Prosthodontics,prosthodontics,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c057b82eeac30eb4,Psychiatry of learning disability/ Mental Health,psychiatry of learning disability/ mental health,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_03eef13b7003ce73,Psychology,psychology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fd52e518e5d7b450,Psychotherapy,psychotherapy,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cdd4d84f93126301,Public health medicine,public health medicine,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_06b15cb668b9123f,Radiographers,radiographers,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_218910e8872ec3ac,Radiotherapy,radiotherapy,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_19a507f48ff2734e,Reflexology,reflexology,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0547027abf8e8961,Rehabilitation,rehabilitation,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment | level_5_organisation_subdepartment,B | D | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fcb44ac8764f5fe7,Rehabilitation medicine,rehabilitation medicine,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c64092d65124ef04,Rehabilitative & Recovery Support,rehabilitative and recovery support,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7e22ea47360701b5,Researcher,researcher,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1ac56854408a8e60,Respiratory medicine / Pulmonology,respiratory medicine / pulmonology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9bc048a421c1c0b4,Restorative dentistry,restorative dentistry,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_62a3c3f6576710bd,Rheumatology,rheumatology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d9ad505c1bc9abbe,Road traffic accident injury law,road traffic accident injury law,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6cbec7fc70ed451f,Shared lives /Supported living,shared lives /supported living,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5c192a7d49fbd5d0,Social Worker,social worker,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_95dab383a32b871d,Sophrology,sophrology,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_78eefa00b1f9f681,Special care dentistry,special care dentistry,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a3c2e17a985aa37f,Special Needs Dentistry,special needs dentistry,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment,B | D,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_074eb591bfc8af1f,Specialities,specialities,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_58183aa9b9ec616c,Species / Pets Specialized Veterinary Practice,species / pets specialized veterinary practice,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b4d3df82b00b60bb,Speech and language therapists.,speech and language therapists,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1a163dbbcc72c9e9,Speech and language therapy,speech and language therapy,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_136478385c4c2cb9,Sport and exercise medicine,sport and exercise medicine,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7d011008ce2f6902,Sports Medicine,sports medicine,,level_2_sub_department | level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment | level_5_organisation_subdepartment,B | D | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6c6e1d51aee79c97,Sports therapy,sports therapy,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_89067dd957a8b729,Student (other than health industry),student other than health industry,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_be942be2d5c71169,Substance abuse,substance abuse,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_266ef8f3f415e448,Urgent care centres,urgent care centres,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6c215c0db680d4a7,Urology,urology,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3a3b2a4a12c8b545,Vascular and endovascular surgery,vascular and endovascular surgery,,level_2_sub_department | level_4_subdepartment | level_5_organisation_subdepartment,B | E | G,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6b3bebb6d418f372,Yoga,yoga,,level_2_sub_department,B,80,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_40e05c970d9245a2,Administration Asssitance,administration asssitance,Administration Assistance,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cdfe3e2de8c29819,AdSense,adsense,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cc9439ac5ecfc210,Advanced Dementia/Alzheimer's,advanced dementia/alzheimer s,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e1f7967de59df2e1,Advanced Practice Registered Nursing (APRN),advanced practice registered nursing aprn,APRN,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_01b3c242e050ee8c,Affiliate marketing,affiliate marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1a58a314a9c346a0,Amazon Milk Frog,amazon milk frog,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0dc956aca379a849,Ambulatory Care Nursing,ambulatory care nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e413056a1c00c353,American Shorthairs,american shorthairs,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c63418432d96e45b,Amphibians,amphibians,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_488c1642ae9f58a9,Anaesthesia,anaesthesia,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_707383de35d5bb9b,Angelfish,angelfish,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3ebeaf400b01d971,Animal Health (Vet),animal health vet,Vet,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c77977e704ce82aa,"Animal Welfare Science, Ethics and Law",animal welfare science ethics and law,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_47aabf3677dd23f5,Application &Web development,application and web development,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f2ca8bff64b1769e,Applications & Registrations,applications and registrations,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_25f841af14f5122d,Argentine Black and White Tegu,argentine black and white tegu,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5c860b3fa0ca28ce,Asset Management,asset management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_40f30a708ce93b8d,Assisted living / extra care housing,assisted living / extra care housing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c1af1b385a718414,Associate specialist,associate specialist,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7296475f5019403b,Audio Developments,audio developments,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_df0a995cb741ff93,Auditing,auditing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3122e19cb7723870,Australian Shepherds,australian shepherds,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c34e2d9641063cdf,Axolotl,axolotl,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5af876989a4f81e5,Ball Pythons,ball pythons,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ec3a12bb1f4edf4a,Bariatric Nurse,bariatric nurse,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8b51ad97c0e6b56e,Beagles,beagles,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a35e625881fc5509,Bearded Dragons,bearded dragons,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4c685954e82eb459,Behavioural Medicine,behavioural medicine,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_462be29ea4c231a1,Betta,betta,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_abe7e510fcad31b6,Birds,birds,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_16767c75cb3718d5,Blue-Tongued Skinks,blue-tongued skinks,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a7b16088adce517d,Bookkeeping,bookkeeping,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d773f5729f8c2435,Boxers,boxers,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_74c42d06dd281c3f,Branding,branding,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_772695caf6783dc2,Breathwork Coach,breathwork coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2dfdcb77893cc87d,British Shorthairs,british shorthairs,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b6a6023264bdf814,Budgeting,budgeting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_123b2bf4f8513468,Building and Design,building and design,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_661170a5627f56fe,Bulldogs,bulldogs,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_478fd9d4c1087f62,Business Analysis,business analysis,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e350e71524ac6197,Business Development,business development,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fa850ac68ce57489,Business in Nursing,business in nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b1caad5054e9eb9b,Business Plan,business plan,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_57675b6ad61b4bed,Business Setup,business setup,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1a10827818da8fbd,Business Strategy,business strategy,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a2cb05e2bf7dc811,Business writing,business writing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cf9a8205ec272abd,Caged Pets,caged pets,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cbde1665358ac2d9,Call Center & Calling,call center and calling,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_584b08d6527f57d9,Camelid Health & Production,camelid health and production,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_db96456acfbedc6b,Camp Nursing,camp nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4bb0ce5dbac1412c,Canaries,canaries,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4ff1cce08e183b2a,Cardiac Cath Lab Nursing,cardiac cath lab nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e7b20579f76ca388,Career Counselling,career counselling,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_61840bf9a27ca844,Case Management Nursing,case management nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_111d58639d20a62e,Catfish,catfish,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8ebf601f8b808c32,Cats,cats,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5a834cc7e71aeba1,Cattle Health & Production,cattle health and production,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_96a8dca64f4c726b,Chihuahuas,chihuahuas,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c264b6094864a80c,Chinchillas,chinchillas,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cbb460a2fe370f75,Chinese Water Dragon,chinese water dragon,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2c30dc435df8e696,Civil Law,civil law,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f23e6020809ddbd7,Clinical Nurse Leader,clinical nurse leader,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0279eaa4d5bbf083,Clinical Nurse Specialist,clinical nurse specialist,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ce8d7df645babd54,Clinical Photography,clinical photography,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_05c9c45c935fa78b,Close care housing,close care housing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e7fab697c93dbf99,Cockatiels,cockatiels,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c1dcff9a5ece4bea,Cockatoos,cockatoos,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_735c03635f334d72,Cocker Spaniels,cocker spaniels,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_89059e6b0096a103,Common Leopard Geckos,common leopard geckos,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4fcce529433d00aa,Community Health Nursing,community health nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_163c9b7ba38c43db,community management,community management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c432158aeb175994,Complaints Handling,complaints handling,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_736322b0643807f3,Complementary Health Nursing,complementary health nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_286392632d8e3a03,Consultation,consultation,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_840821f2a39e5d82,Consulting Rooms,consulting rooms,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c5121d654f508e5e,Content marketing,content marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c0e64491c6cce688,Content writing,content writing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0aaa6d8215fcbe83,Conversion optimisation,conversion optimisation,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c8fa52cb50e2e8f1,Copywriting,copywriting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_19f39963e4b58373,Core training (CT1),core training ct1,CT1,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_bb0d2b2a7181b62b,Core training (CT2),core training ct2,CT2,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_912b2f5074703efc,Core training (CT3),core training ct3,CT3,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_43dfb5987469cf30,Corgis,corgis,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d01f7524d880609d,Corn Snakes,corn snakes,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2c9cdd6849d57de9,Corporate Law,corporate law,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_aa041efdad32951e,Corporate Tax,corporate tax,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5794b66e196a02bc,Correctional Facility Nursing,correctional facility nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_618259371e805dbd,Creative writing,creative writing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_dfc7d5ad75f253fb,Crested Geckos,crested geckos,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_55fdf132d5370c3d,Criminal Law,criminal law,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_13d73576aae3114c,Critical Care Nursing,critical care nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9219698c65576fb1,Customer Service,customer service,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_02f5b493fe9619a8,"CV, cover letter & interview",cv cover letter and interview,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d8619bfa3c392150,Dachshund,dachshund,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b2dfa9732ad1685e,Dart Frog,dart frog,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8762846744a763b4,Data Analytics,data analytics,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ef07e6a01babf03a,Data Entry,data entry,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1b08ec3b9487879b,Data Visualization,data visualization,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8bc9b094ea9560f8,Day care,day care,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ed36b745616033f5,Debt Collection,debt collection,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_087522e1e2687308,Dementia,dementia,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_00a30b9e3ba1aff4,Dermatology Nursing,dermatology nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8a462146076d6d47,Detention under Mental Health Act,detention under mental health act,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d4eaf725f750c01d,Developmental Disability Nursing,developmental disability nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_975106260b1c772c,Devon Rexes,devon rexes,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f6678a1f30c14be0,Diabetes Nursing,diabetes nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ea085cff28c77354,Diagnostic Imaging,diagnostic imaging,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d30b5951333e228c,Dialysis Nursing,dialysis nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3511d6edbf28f8d4,Direct marketing,direct marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cc90fda9b1a7483d,Dogs,dogs,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c5564b753d9ed61b,Domain Name Research,domain name research,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_946f4b42605972b3,Domestic Violence Nursing,domestic violence nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e202a61de27acbd3,E-commerce marketing,e-commerce marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b79f46f2556d4d36,Eating Disorders,eating disorders,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f34946beab1da2af,Editing,editing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e5e2e3ccd39fe947,Email marketing,email marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f72270e219638b24,Email Template,email template,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_02dabfe914399f44,Emergency and Critical Care,emergency and critical care,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_229abb2fabbfce42,Emergency Nursing,emergency nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6867724bac73d98c,Employment & Income Tax,employment and income tax,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_642396da11ffb20f,Employment Law,employment law,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4c31110b036a4acc,Endocrinology,endocrinology,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_83ca029e9d67a8fb,Epidemiology,epidemiology,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8d02bd65e763f455,Ethics in Nursing,ethics in nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_65ae3c9dd94ba931,Event management,event management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5ea9d462afcd8932,Event Management & Setup,event management and setup,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_22f902bed8780113,Exhibition marked marketing,exhibition marked marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2a367f2c8d6e1113,Exotic Animal Medicine,exotic animal medicine,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8ef744707467c39f,Experimental marketing,experimental marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_644a1e2f0811033b,Facebook marketing,facebook marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0502ef3fad4125ab,Family Nurse Practitioner,family nurse practitioner,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cca25d0ffd4e835a,Featured accommodation,featured accommodation,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3a3d87796b9fe904,Feline Medicine,feline medicine,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_049155140aa6b6ae,Fellow,fellow,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ff43837c5754a9ac,Ferrets,ferrets,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c8d8d0ecbda68e97,File Conversion,file conversion,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_16d98d0e16855772,Financial Accounting,financial accounting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e10cfe83c51ee66b,Financial Analysis,financial analysis,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6c32faa190825e91,Financial Consulting,financial consulting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1843b44e2850f9c7,Financial Forecasting,financial forecasting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a79f8ae2f28332a4,Financial Modelling,financial modelling,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_df2f89f1f9eb005b,Financial Planning,financial planning,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_96d315e0d2c1f79f,Finches,finches,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_64875fcccaac069f,Fish,fish,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c59a29561d26b78b,Fish Health & Production,fish health and production,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_337f49fa36739dad,Flight/Transport Nursing,flight/transport nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a142e98f88515ecc,Foam Rolling / Myofascial Guide,foam rolling / myofascial guide,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_696cf2a9e714d01b,For rent,for rent,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_68d12a23b109e90c,For sale,for sale,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_31c5cb88087f98b8,Forensic Nursing,forensic nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_47bdfe8235727b18,Foundation year 1 (FY1),foundation year 1 fy1,FY1,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_13d7b2bab4af6f79,Foundation year 2 (FY2),foundation year 2 fy2,FY2,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_935f3d11d8e69eb4,Foundation year 3 (FY3),foundation year 3 fy3,FY3,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_07c241bb0a87791d,French Bulldogs,french bulldogs,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_462d6f5a3259cda7,Fundraising,fundraising,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c2941830ac989acc,Gastroenterology,gastroenterology,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_61cb539198c99e5f,Gastroenterology Nursing,gastroenterology nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_eb2e0ee4c5292666,General Hosital,general hosital,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_88ae92e7a7e685b6,General IT help,general it help,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a97801ed3c76f14f,General Neursing,general neursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2986c0dd3aadbde0,General Practioners Family Medicine (GP),general practioners family medicine gp,GP | General Practitioners | General Practitioner | Family Medicine,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0b8d98dd5f2372d0,General Vet,general vet,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2256c4ffdea59a79,Genetics Nursing,genetics nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fe3fe40348ec7747,Gerbils,gerbils,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_42d70c38b392c2dc,Geriatric Nursing,geriatric nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_21ec4f44be8fa8af,German Shepherds,german shepherds,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_bd912d2f649177c6,Gerontological Nurse Practitioner,gerontological nurse practitioner,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fd508d64fe1f93a9,Ghost writing,ghost writing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6ff25da8a9de9995,Goats,goats,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b403d2db2fa8e2fe,Golden Retrievers,golden retrievers,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fbbe7e952d1050bf,Goldfish,goldfish,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_670df90240a40f5f,GP / Family medicine,gp / family medicine,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d8946dcc76920aa2,Graphics & Design Developments,graphics and design developments,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b04cca0e41e3fa43,Green Anole,green anole,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e3cca6ca4232d9f4,Green Iguanas,green iguanas,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_58b39e129f9541a0,Group Fitness Instructor,group fitness instructor,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_383c4a1b7f6fe41b,Growth hacking,growth hacking,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f810f966733abe12,Guinea Pigs,guinea pigs,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6d9024f680512a58,Guppies,guppies,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_59cab60d683ef402,Gynaecology/Obstetric Nursing,gynaecology/obstetric nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_337a5d3d1867c570,Haematology Nursing,haematology nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b54a982a7773efaf,Hamsters,hamsters,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_729ba78f354c7029,Health Lawyers,health lawyers,,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_15200fc004b555e4,Health Policy Nursing,health policy nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_bb67eb2e04d40908,Healthy Volunteer,healthy volunteer,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d811086176db6c09,Hen,hen,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_fb942deaed889754,High Intensity Interval Training Instructor,high intensity interval training instructor,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_eaf342f23b015df6,HIV/AIDS Nursing,hiv/aids nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5fd1bafccdb3fe58,Holistic Nursing,holistic nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e36c14492872d813,Holistic Nutritionist,holistic nutritionist,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d885fa545ef7b2d4,Home Health Care Nursing,home health care nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0a93c221c3fa3c80,Hospice/Palliative Nursing,hospice/palliative nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_aca5e41d1eb8be04,Housing and care home providers,housing and care home providers,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7a0b3db02514ad51,HR & Recruiting,hr and recruiting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_da17635a0fa3ba1e,HR Consulting,hr consulting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1418a24019be1f06,Huskies,huskies,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1f7ab6ce396cf5f1,Infection Nursing,infection nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1da2c857c3ae1449,Influencer marketing,influencer marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9ed24899362b7a76,Informatics Nursing,informatics nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_64a7e4e09b5c76f3,Infusion Nursing,infusion nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6325e9bbe707b8dd,Instagram marketing,instagram marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7bf7ead1a0f832d2,Insurance Consulting,insurance consulting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_efbc511ccc2f25e8,Insurance/indemnity,insurance/indemnity,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_957734d548a11735,Intellectual Property Law,intellectual property law,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_497b4a351cdf4cb6,Internal Medicine,internal medicine,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8e8ff32fd2ebf514,International Nursing,international nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b0fa389376999552,Interpretation,interpretation,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b72b9a25e9ceb8a3,Investment Management,investment management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a83bd4b4dd8df17a,Labor and Delivery Nursing,labor and delivery nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_14ee4b3bd78db981,Labrador Retrievers,labrador retrievers,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_169939043f0ac068,Lactation Consultation,lactation consultation,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_bd1b4720c356f22a,Landing Page,landing page,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_86962206093d4f49,legal dispute,legal dispute,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_901e802529eced3a,Legal Documents & Contracts,legal documents and contracts,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_17de871b934f1728,Legal Nurse Consultant,legal nurse consultant,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f402d8b82c1c5016,Life Care Planning Nursing,life care planning nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4df15a1a01c4dc47,Life Coach,life coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f4ff2528f4d4545a,LinkedIn marketing,linkedin marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_665180ebfc6524d0,Long term conditions,long term conditions,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_aa4cd846d7fc5012,Long-Term Care Nursing,long-term care nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_46dd187535349d90,Lovebirds,lovebirds,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9fbdad96d0c1f5d5,Loyalty marketing,loyalty marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_acda2783b5cf229c,Maine Coons,maine coons,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1a3ca65acf892d02,Mammals,mammals,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a15c8f0f31b73405,Managed Care Nursing,managed care nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5e33155657c823a9,Meal Planning Consultant,meal planning consultant,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4d56269515532ffe,Medica Specialists,medica specialists,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f59012dfcd09e8f7,"Medical Admin, Digital Technology",medical admin digital technology,,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_71fa3b7f0cefbe00,"Medical Admin, Digital Technology, Freelancer",medical admin digital technology freelancer,,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_18e901d2f4de7428,Medical Billing,medical billing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b57de6399e79b468,Medical Business Legal Consultation,medical business legal consultation,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f570508758ab0b8c,Medical Business Planning,medical business planning,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_418a805d74ea3bef,Medical E-commerce Management,medical e-commerce management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_931517b68611be5c,Medical officer,medical officer,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_919f110171a0b830,medical photo,medical photo,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b015475952f4cc18,Medical Specialists,medical specialists,,level_1_search_category | level_3_nonmedical_or_organisation_subdepartment,A | D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7c9e006f34819786,Medical Translators & Interpreters,medical translators and interpreters,,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4f7e6dd04345dec2,Medical-Surgical Nursing,medical-surgical nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_64f4821a82177000,Meditation Teacher,meditation teacher,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f9443b3d60657dff,Membership Organisations,membership organisations,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_69c0e9defc2dfd66,Mice,mice,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_afd4a02f47e49e70,Microbiology,microbiology,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_75f11c3975fa602b,Military and Uniformed Service Nursing,military and uniformed service nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f5021e38f24e01d8,Mindfulness Coach,mindfulness coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_08a5a53dc7917f90,Mobile marketing,mobile marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b7a5a8611cb50a8b,Mobility Coach,mobility coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_efde27f964bef065,Moderation & Arbitration,moderation and arbitration,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_83f9d939753fe348,Mollies,mollies,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e1b2236501bf0788,Monitor Lizards,monitor lizards,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_480e9efa3ccef94c,Neon Tetras,neon tetras,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_44613f8ad716e886,Neonatal Intensive Care Nursing,neonatal intensive care nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4cafa8ac71343632,Nephrology Nursing,nephrology nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9fb7272549b912e0,Neuroscience Nursing,neuroscience nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c2a6b03f190dfb2b,New,new,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e425d3b35c2002cd,NHS / Sate provider,nhs / sate provider,NHS / State Provider | NHS | State Provider,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_776d46195d218c75,Non-training post,non-training post,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0605362e5892d1dc,Nurse Anaesthetist,nurse anaesthetist,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cf4b32056ad4a1d6,Nurse Attorney,nurse attorney,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7c8e06b7ba4d2890,Nurse Educator,nurse educator,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_558135cf5b38914d,Nurse Legislator,nurse legislator,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f02472a0597b0185,Nurse Midwife,nurse midwife,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e594e4db15acc2be,Nurse Practitioner,nurse practitioner,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_21cd57d84c9f76cc,Nurse Researcher,nurse researcher,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e17f674420bc3199,Nursing Advocacy,nursing advocacy,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a216d8324d9d0f26,Nursing care,nursing care,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3ad2ff623de7f8fd,Nursing Entrepreneur,nursing entrepreneur,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e1c136e09aca077f,Nursing Executive and Nursing CEO,nursing executive and nursing ceo,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_94d7129eaf240e12,Nursing homes (care homes with nursing),nursing homes care homes with nursing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7be75976617adb11,Nursing Manager and Nursing Administration,nursing manager and nursing administration,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_05e41c21f491b92c,Nursing Quality Improvement,nursing quality improvement,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f7c990d8f7696d75,"Nursing Writer, Author, or Historian",nursing writer author or historian,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5adf741a2c31ea94,Nutrition,nutrition,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_59b7252df12eac7a,Nutrition Coach,nutrition coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_22713e02d98d6f19,Occupational Health Consulting,occupational health consulting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_71e89832b5a071b0,Occupational Health Nurse,occupational health nurse,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e91f5f7daad357e5,Office management,office management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c00dbbc9dadfbe1e,Old,old,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a9a0f77bfe24947a,Older Person Care,older person care,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e33da4948645ba4a,Oncology Medical,oncology medical,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e76f1072a050e1de,Oncology Nursing (Cancer Nursing),oncology nursing cancer nursing,Cancer Nursing,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c0e73fdd3485d8f5,"Oncology, Surgical",oncology surgical,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7013e84bf9ad6bc9,Operating Room Nursing (Perioperative Nursing),operating room nursing perioperative nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a532098c66402f1e,Ophthalmic Nursing,ophthalmic nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0791f86c86d96f8f,Oriental Fire-Bellied Toad,oriental fire-bellied toad,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9e138d07dec295e2,Orthopaedics,orthopaedics,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e0c7af7ffb679c71,Orthopedic Nursing,orthopedic nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d0941e68da8f3815,OTHER,other,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_99d4031aa964fa51,Other accommodation types...,other accommodation types,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_eddd92eb58b50ea5,Otorhinolaryngology Nursing (Head and Neck Nursing),otorhinolaryngology nursing head and neck nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3b005f5f07c7bd71,"Overseas, Volunteer, or Refugee Nursing",overseas volunteer or refugee nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c09926e17bd6355a,Pacman Frog,pacman frog,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_902e2a67511577ed,Paediatric Endocrinology Nursing,paediatric endocrinology nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d2d24452a88daae2,Paediatric Nurse,paediatric nurse,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1ec6013dd9bed3a6,Pain Management Nursing,pain management nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7678b0626d60230f,Palliative Care,palliative care,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3b09362330d1b7ce,Parakeets,parakeets,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_432d3f4974809db4,Parasitology,parasitology,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9208a3d0bf1cbba3,Parkinson’s,parkinson s,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f264445817f1d31e,Parrots,parrots,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_075213d005fc049e,Patent Law,patent law,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e1c9087e994b2bfe,Pathology,pathology,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2763710e334bc3b0,Pathology (Laboratory Animals),pathology laboratory animals,Laboratory Animals,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_be043d58978cdb88,Patient Management System,patient management system,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8ce5f027d1bf4551,Patient Volunteer,patient volunteer,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4de4727ba00457f7,Payroll,payroll,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3afa0f720e02eed0,Perinatal Nursing,perinatal nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a8200508c20849d9,Persians,persians,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_48a60b9682ecf611,Personal Assistance,personal assistance,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_be7901e12f5db3fa,Personal Trainer,personal trainer,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4ae8db49af4a660c,Pharmaceutical,pharmaceutical,,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_071c2e3825f5fbea,Pharmacology and Toxicology,pharmacology and toxicology,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f9f6d83561b51089,Physical Disability,physical disability,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4c431b72c12b59b9,Physical or learning disabilities,physical or learning disabilities,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_338114b9744e2a6c,picture editing,picture editing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_64d9c72f2f8e81b0,Pilates Instructor,pilates instructor,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1e77bc2669bd196a,Pinterest marketing,pinterest marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_da87fb307d674f0e,Plastic Surgery Nursing,plastic surgery nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0153d3ee3f2214f0,Podcast marketing,podcast marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c4dd4bb3d709bfc7,Poison Information Specialist,poison information specialist,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2a197d717f419776,Poodles,poodles,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f31e4615cea8c0f4,Postgraduate,postgraduate,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3f35cc59df755605,Posture Specialist,posture specialist,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_86639ec9e33495f6,Poultry Medicine & Production,poultry medicine and production,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_646885db10735666,Pregnancy,pregnancy,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_539489521a87dff7,Presentations,presentations,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e80721793c24ae14,Private,private,,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f958fc50c5eb7182,Product Management,product management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d7b00ace821470f9,professional photography,professional photography,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7a9bbff856ea046d,Programming & Tech Projects,programming and tech projects,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_aea1647009a4e4d7,Project Management,project management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2b3c4209a22b4883,Proofreading,proofreading,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5a6d666a6d9ced8e,Property Tax,property tax,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_bbc263fc7ae37f4a,Psychiatric Nursing,psychiatric nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_539b1b7ed97455e3,Public Health,public health,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4d5872eab9850ef4,Public Health Nurse,public health nurse,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b6721ec528e642d0,Public relations,public relations,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_06956858d90d08b3,Pulmonary Care Nursing (Respiratory Nursing),pulmonary care nursing respiratory nursing,Respiratory Nursing,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2787dd15b92acea1,Rabbits,rabbits,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_21d3444094db2fe9,Radiology Nursing,radiology nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e1aa58401d474339,Ragdolls,ragdolls,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b17ee98e57795a09,Rats,rats,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_bc5a941c54fc5f59,Recovery post-op or after illness,recovery post-op or after illness,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_bdf1d893c7a92dc1,Red-Eared Sliders,red-eared sliders,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_bf5e9e0097c34809,Registered Nurse,registered nurse,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2aa8ba1fad9b4e3e,Rehabilitation (illness/injury),rehabilitation illness/injury,illness/injury,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7ff5735c7072df6b,Reproduction,reproduction,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b6dd1b7993fb5ea4,Reproductive Nursing,reproductive nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_26c4b9cf96c10b5a,Reptiles,reptiles,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_20e263a499d9ecb7,Research writing,research writing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_af55732293bbb7fe,Residential care homes,residential care homes,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_806ea7ba9a55124b,Respite and short stays,respite and short stays,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d5bce93f919db6b9,Retirement housing,retirement housing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_9b4143846cfdbcdb,Rheumatology Nursing,rheumatology nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2cf7869d966a916a,Risk Management,risk management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4fec96ae7e1af28c,rooster,rooster,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8f8e13d0d2cba8c9,Rottweilers,rottweilers,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_35cb28447c9f4567,Running/Cycling Coach,running/cycling coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_29863aa0a133caf6,Russian Blues,russian blues,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6a8e37d8677eb090,Safety Consulting,safety consulting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_761f44956ae6d543,School Nursing,school nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e132d9ca2b21ac21,Scottish Folds,scottish folds,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d5f53246ce8f0b42,"Sem, adwords and ppc",sem adwords and ppc,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e2b936f13a8a9515,Sensory disability,sensory disability,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6170ca2b023edf54,Seo,seo,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_700a1545f06ef767,Sexual Assault Nurse Examiner,sexual assault nurse examiner,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_29e5e7b80d90e934,Shared ownership(s) available,shared ownership s available,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6525f2e663e8d223,Sheep,sheep,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_4410d914a5ceb253,Siamese Cats,siamese cats,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_80e687b058d833c9,Snapchat marketing,snapchat marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a6c3bcb8cca9478f,social bookmarking,social bookmarking,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_dd0ff9824ea95c93,social media analysis,social media analysis,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e1ba1d48d8b812db,social media assistance,social media assistance,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1c3ecd02b935b97f,social media monitoring,social media monitoring,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6dc70316d3109363,social media strategy,social media strategy,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_25fa2d2f6b0dc88c,Soft Tissue Surgery,soft tissue surgery,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d7bc89070a6f6c6b,Specialist Type,specialist type,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_739238b8b94b4278,Specialty doctor,specialty doctor,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_767d0e79e00f92b3,Specialty registrar,specialty registrar,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3d7f22ff8eead502,Specialty training (ST1),specialty training st1,ST1,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ae517fa314a872d7,Specialty training (ST2),specialty training st2,ST2,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7abc15d6272e57a9,Specialty training (ST3),specialty training st3,ST3,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_576ea3f43c1ba0a0,Specialty training (ST4),specialty training st4,ST4,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6fb0fefcc0d856f7,Specialty training (ST5),specialty training st5,ST5,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b8f5b613b84fbdc5,Specialty training (ST6),specialty training st6,ST6,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_177046b5b16cd81a,Specialty training (ST7),specialty training st7,ST7,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a4730c2f89d91a43,Specialty training (ST8),specialty training st8,ST8,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_85414f9342372c92,Sphynx Cats (Note: this are hairless cats),sphynx cats note this are hairless cats,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_5b60f7060f369f91,Sports Nutritionist,sports nutritionist,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7ec8dab168e4839a,Start-up Consulting,start-up consulting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_520b955332546235,Stock Management,stock management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1068c84b68ba0960,Strategy and research,strategy and research,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cd4e70ba116f308f,Strength & Conditioning Coach,strength and conditioning coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c9a169bbdce06b8b,Stress Management Specialist,stress management specialist,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d32d8bc3a2795653,Stretch Therapist,stretch therapist,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f053a09e27835365,"Students & Trainees, & Academics",students and trainees and academics,,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_253b440fcc84051a,Subacute Nursing,subacute nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ec2f78a9f70759ae,Substance Abuse Nursing,substance abuse nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_465b4a4f3a59aa41,Substance Misuse,substance misuse,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_298c3318917a80bd,Supplemental/Agency Nursing,supplemental/agency nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_59f6a26782a8e1b0,Surgery,surgery,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cf5d74ee49e5e531,Surgical Neursing,surgical neursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_f6492d17fa0f13e1,Surgical Nursing,surgical nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c802cb05dd7399df,Surveys,surveys,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a4b02d4a362bb114,Tai Chi / Qigong Coach,tai chi / qigong coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2bbb334c67874881,Technical writing,technical writing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_a7badffb583d3282,Telemetry Nursing,telemetry nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8a42c87f4b5d7c9f,Telephone Triage Nursing,telephone triage nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8d5aade6637b4464,Tiger Salamander,tiger salamander,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_dfe236c8d2ce8d45,Tortoises,tortoises,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_b18d44cc29f74461,Toxicology Nursing,toxicology nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d102565ddfcdb937,Trade Law,trade law,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_015658424c24e849,Trademark Consulting,trademark consulting,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_acf24d667e0a60af,"Traditional, Spiritual & Allied Health",traditional spiritual and allied health,,level_1_search_category,A,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_1ea69cfedb420f15,Trainee (other),trainee other,other,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_97968fc912ddb092,Transcription,transcription,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_926bc38ce68a027f,Transcultural Nursing,transcultural nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_efd7fd7f2954713c,Translation,translation,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_367cb4f1b96879fd,Transplant Nursing,transplant nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_44e9c07fe38b714d,Trauma Nursing,trauma nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_224d0b95a13bc080,Travel Nursing,travel nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2d302cb1c1603afb,Tree Frog,tree frog,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_dac639ec08b3eba9,Triage Nursing,triage nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_e465b6f3d264569e,Turtles,turtles,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ea6aea2ebdef9633,Twitter marketing,twitter marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_02d7d3475883e6dc,Typing,typing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_972f977aa0fb82c7,Undergraduate,undergraduate,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_3c51297e743972f7,Universal Legal Advice,universal legal advice,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d68632590936b037,Universal Online Research,universal online research,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_0d36e068d5bbedac,Urologic Nursing,urologic nursing,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_671903b31d9a589c,Video & Animation Developments,video and animation developments,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_27bd25ea88a4feb2,video making,video making,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8b67f44c1132ffb0,Video marketing,video marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_65445fe5c0879fed,Viral marketing,viral marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_441cb1442adcf79c,Wealth Management,wealth management,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_37bcba6b75f1d6e2,Web analytics,web analytics,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_93559c137a8f58fc,Web and IT Solutions,web and it solutions,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_294de7736949b5ff,"Web maintenance (Updates, Upload, Bug Fixes)",web maintenance updates upload bug fixes,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8beaf4bf77aa47ac,WeChat marketing,wechat marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_7faf08f0c7338d87,Weight Management Coach,weight management coach,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_18db58ac2442cdd7,WILD LIFE & ZOO,wild life and zoo,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_32da1f51faaa97e8,Year 1,year 1,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_468eae794cda427d,Year 2,year 2,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_8cb6254f482c7ded,Year 3,year 3,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_c4fe87bd34bae5b7,Year 4,year 4,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_057d50038d8b078c,Year 5,year 5,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_6a5e8f6527c2cdbb,Year 6,year 6,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d40213572268cf17,Year 7,year 7,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_ef4064b5d053ab88,Year 8,year 8,,level_3_nonmedical_or_organisation_subdepartment | level_4_subdepartment,D | E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_d789b7fc05374233,Year 9,year 9,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_cbcac41cb167c8d4,Yoga Instructor,yoga instructor,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_44a0d010eb875458,Yorkshire Terriers,yorkshire terriers,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_95945ff6fc8e00fd,Younger Adults,younger adults,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_64b1bf35eedcf64f,YouTube marketing,youtube marketing,,level_3_nonmedical_or_organisation_subdepartment,D,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
+internal_2c518b186ca484f4,Zebra Danios,zebra danios,,level_4_subdepartment,E,60,True,eSupraLife RESTUCTURED_INDEX_EXCEL,internal_taxonomy
