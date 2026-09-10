@@ -1,0 +1,44 @@
+{
+  "searchableAttributes": [
+    "term",
+    "aliases"
+  ],
+  "displayedAttributes": [
+    "id",
+    "term",
+    "normalized",
+    "canonical",
+    "aliases",
+    "categories",
+    "subcategories",
+    "priority",
+    "active",
+    "source",
+    "kind"
+  ],
+  "filterableAttributes": [
+    "active",
+    "categories",
+    "kind"
+  ],
+  "sortableAttributes": [
+    "priority"
+  ],
+  "rankingRules": [
+    "words",
+    "typo",
+    "exactness",
+    "priority:desc",
+    "attribute",
+    "proximity"
+  ],
+  "typoTolerance": {
+    "enabled": true,
+    "minWordSizeForTypos": {
+      "oneTypo": 4,
+      "twoTypos": 8
+    },
+    "disableOnNumbers": true
+  },
+  "prefixSearch": "indexingTime"
+}

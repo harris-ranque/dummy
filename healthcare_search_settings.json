@@ -1,0 +1,50 @@
+{
+  "searchableAttributes": [
+    "term"
+  ],
+  "displayedAttributes": [
+    "id",
+    "term",
+    "normalized",
+    "canonical_ids",
+    "canonical_names",
+    "departments",
+    "source_kinds",
+    "fragment_kinds",
+    "canonical_count",
+    "word_count",
+    "priority",
+    "active",
+    "source",
+    "kind"
+  ],
+  "filterableAttributes": [
+    "active",
+    "departments",
+    "source_kinds",
+    "fragment_kinds",
+    "kind"
+  ],
+  "sortableAttributes": [
+    "priority",
+    "canonical_count",
+    "word_count"
+  ],
+  "rankingRules": [
+    "words",
+    "typo",
+    "exactness",
+    "priority:desc",
+    "attribute",
+    "proximity"
+  ],
+  "typoTolerance": {
+    "enabled": true,
+    "minWordSizeForTypos": {
+      "oneTypo": 5,
+      "twoTypos": 9
+    },
+    "disableOnNumbers": true
+  },
+  "prefixSearch": "indexingTime"
+}

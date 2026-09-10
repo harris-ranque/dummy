@@ -1,0 +1,54 @@
+{
+  "searchableAttributes": [
+    "preferred_term",
+    "entry_terms",
+    "acronyms"
+  ],
+  "displayedAttributes": [
+    "id",
+    "term",
+    "normalized",
+    "preferred_term",
+    "entry_terms",
+    "acronyms",
+    "departments",
+    "canonical_skill_ids",
+    "mesh_id",
+    "is_official_mesh_record",
+    "official_sync_required",
+    "priority",
+    "active",
+    "source",
+    "source_url",
+    "kind"
+  ],
+  "filterableAttributes": [
+    "active",
+    "departments",
+    "is_official_mesh_record",
+    "kind"
+  ],
+  "sortableAttributes": [
+    "priority"
+  ],
+  "rankingRules": [
+    "words",
+    "typo",
+    "exactness",
+    "priority:desc",
+    "attribute",
+    "proximity"
+  ],
+  "typoTolerance": {
+    "enabled": true,
+    "minWordSizeForTypos": {
+      "oneTypo": 5,
+      "twoTypos": 9
+    },
+    "disableOnAttributes": [
+      "acronyms"
+    ],
+    "disableOnNumbers": true
+  },
+  "prefixSearch": "indexingTime"
+}

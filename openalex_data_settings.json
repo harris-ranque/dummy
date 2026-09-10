@@ -1,0 +1,46 @@
+{
+  "searchableAttributes": [
+    "topic",
+    "keywords",
+    "subfields",
+    "field",
+    "domain"
+  ],
+  "displayedAttributes": [
+    "id",
+    "term",
+    "normalized",
+    "topic",
+    "keywords",
+    "subfields",
+    "field",
+    "domain",
+    "openalex_id",
+    "is_official_openalex_record",
+    "official_sync_required",
+    "priority",
+    "active",
+    "source",
+    "source_url",
+    "kind"
+  ],
+  "filterableAttributes": [
+    "active",
+    "field",
+    "domain",
+    "is_official_openalex_record",
+    "kind"
+  ],
+  "sortableAttributes": [
+    "priority"
+  ],
+  "rankingRules": [
+    "words",
+    "typo",
+    "exactness",
+    "priority:desc",
+    "attribute",
+    "proximity"
+  ],
+  "prefixSearch": "indexingTime"
+}

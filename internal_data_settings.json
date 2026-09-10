@@ -1,0 +1,36 @@
+{
+  "searchableAttributes": [
+    "term",
+    "aliases"
+  ],
+  "displayedAttributes": [
+    "id",
+    "term",
+    "normalized",
+    "aliases",
+    "internal_types",
+    "source_columns",
+    "priority",
+    "active",
+    "source",
+    "kind"
+  ],
+  "filterableAttributes": [
+    "active",
+    "internal_types",
+    "source_columns",
+    "kind"
+  ],
+  "sortableAttributes": [
+    "priority"
+  ],
+  "rankingRules": [
+    "words",
+    "typo",
+    "exactness",
+    "priority:desc",
+    "attribute",
+    "proximity"
+  ],
+  "prefixSearch": "indexingTime"
+}
